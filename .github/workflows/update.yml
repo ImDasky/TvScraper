@@ -3,7 +3,7 @@ name: Update IPTV Playlist and EPG
 on:
   schedule:
     # Run daily at 10:00 AM UTC (3:00 AM PDT / 6:00 AM EDT)
-    - cron: '0 10 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
