@@ -31,8 +31,7 @@ jobs:
 
       - name: Install Playwright Browsers and System Dependencies
         run: |
-          playwright install chromium
-          sudo playwright install-deps chromium
+          python -m playwright install --with-deps chromium
 
       - name: Run Scraper
         run: |
