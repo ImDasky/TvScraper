@@ -15,6 +15,8 @@ BASE_URL = "https://roxiestreams.su"
 CATEGORIES = ["soccer", "mlb", "nba", "nfl", "nhl", "fighting", "motorsports"]
 DEFAULT_EVENT_DURATION_MINUTES = 180  # 3 hours default duration
 CHANNEL_LOGO = f"{BASE_URL}/imgs/iconn.png"
+PLAYBACK_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+PLAYBACK_REFERRER = f"{BASE_URL}/"
 
 # --- HTML PARSER ---
 class EventsHTMLParser(HTMLParser):
@@ -372,6 +374,8 @@ def main():
             f.write(
                 f'#EXTINF:-1 tvg-id="{info["id"]}" tvg-name="{info["name"]}" tvg-logo="{CHANNEL_LOGO}" group-title="{info["group"]}",{info["name"]}\n'
             )
+            f.write(f"#EXTVLCOPT:http-user-agent={PLAYBACK_USER_AGENT}\n")
+            f.write(f"#EXTVLCOPT:http-referrer={PLAYBACK_REFERRER}\n")
             f.write(f'{ch["stream_url"]}\n')
             
     # 5. Generate XMLTV EPG

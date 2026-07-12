@@ -2,7 +2,7 @@ name: Update IPTV Playlist and EPG
 
 on:
   schedule:
-    # Run daily at 10:00 AM UTC (3:00 AM PDT / 6:00 AM EDT)
+    # Run every hour — public repos have unlimited free GitHub Actions minutes
     - cron: '0 * * * *'
   workflow_dispatch:
 
