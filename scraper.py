@@ -178,25 +178,30 @@ def get_domains():
         print(f"  [Fallback] Warning: failed to fetch domainsz53.txt: {e}")
     return ["formaturamaxi.com.br"] # Safe fallback resolved from HAR
 
-def resolve_stream_static(path, domains):
+def resolve_stream(path, domains):
+    print(f"Attempting static resolution for channel: {path}")
     url = f"{BASE_URL}{path}"
     try:
         html = fetch_url(url)
     except Exception as e:
-        print(f"  [Fallback] Error fetching stream page {url}: {e}")
+        print(f"  Failed: Error fetching stream page {url}: {e}")
         return None
         
     # 1. Search for direct hardcoded M3U8 URLs
     direct_matches = re.findall(r"['\"](https?://[^\'\"]+\.m3u8)['\"]", html)
     if direct_matches:
-        return direct_matches[0]
+        stream_url = direct_matches[0]
+        print(f"  Success: Resolved direct stream URL: {stream_url}")
+        return stream_url
         
     # 2. Search for getRandomStream('path.m3u8', 'subdomain')
     match = re.search(r"getRandomStream\(\s*['\"]([^'\"]+\.m3u8)['\"]\s*,\s*['\"]([^'\"]+)['\"]\s*\)", html)
     if match:
         stream_path, subdomain = match.groups()
         domain = domains[0] if domains else "formaturamaxi.com.br"
-        return f"https://{subdomain}.{domain}/{stream_path}"
+        stream_url = f"https://{subdomain}.{domain}/{stream_path}"
+        print(f"  Success: Resolved stream URL: {stream_url}")
+        return stream_url
         
     # 3. Search for getRandomStream('path.m3u8') using global subdomain variable
     match_default = re.search(r"getRandomStream\(\s*['\"]([^'\"]+\.m3u8)['\"]\s*\)", html)
@@ -205,61 +210,10 @@ def resolve_stream_static(path, domains):
         sub_var_match = re.search(r"var\s+subdomain\s*=\s*['\"]([^'\"]+)['\"]", html)
         subdomain = sub_var_match.group(1) if sub_var_match else "tedesco"
         domain = domains[0] if domains else "formaturamaxi.com.br"
-        return f"https://{subdomain}.{domain}/{stream_path}"
+        stream_url = f"https://{subdomain}.{domain}/{stream_path}"
+        print(f"  Success: Resolved stream URL: {stream_url}")
+        return stream_url
 
-    return None
-
-def resolve_stream_playwright(path):
-    # This is standard Playwright network interception
-    from playwright.sync_api import sync_playwright
-    
-    m3u8_url = None
-    with sync_playwright() as p:
-        # Launch Chromium headless
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
-        page = context.new_page()
-        
-        # Intercept network responses
-        def on_response(response):
-            nonlocal m3u8_url
-            url = response.url
-            if ".m3u8" in url:
-                m3u8_url = url
-                
-        page.on("response", on_response)
-        
-        url = f"{BASE_URL}{path}"
-        print(f"  [Playwright] Loading page {url}")
-        page.goto(url, wait_until="networkidle", timeout=15000)
-        # Give Clappr video player a few seconds to boot and load the stream
-        page.wait_for_timeout(3000)
-        browser.close()
-        
-    return m3u8_url
-
-def resolve_stream(path, domains):
-    # Try Playwright network interception first
-    try:
-        print(f"Attempting Playwright interception for channel: {path}")
-        url = resolve_stream_playwright(path)
-        if url:
-            print(f"  Success: Intercepted via Playwright: {url}")
-            return url
-    except ImportError:
-        print("  Playwright is not installed. Using static parser fallback.")
-    except Exception as e:
-        print(f"  Playwright interception failed: {e}. Using static parser fallback.")
-        
-    # Fallback to static parser
-    print(f"Attempting static fallback for channel: {path}")
-    url = resolve_stream_static(path, domains)
-    if url:
-        print(f"  Success: Resolved via static fallback: {url}")
-        return url
-        
     print(f"  Failed: Could not resolve stream URL for {path}")
     return None
 
