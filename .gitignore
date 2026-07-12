@@ -1,0 +1,19 @@
+# Large/sensitive data files
+roxiestreams.su.har
+*.har
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Generated outputs (will be committed by CI)
+# playlist.m3u  <- keep tracked
+# epg.xml       <- keep tracked
