@@ -44,6 +44,10 @@
     <title lang="en">France vs Spain</title>
     <desc lang="en">Live streaming of France vs Spain on RoxieStreams.</desc>
   </programme>
+  <programme start="20260714000000 +0000" stop="20260714030000 +0000" channel="mlb-streams-1">
+    <title lang="en">MLB Home Run Derby</title>
+    <desc lang="en">Live streaming of MLB Home Run Derby on RoxieStreams.</desc>
+  </programme>
   <programme start="20260715000000 +0000" stop="20260715030000 +0000" channel="mlb-streams-1">
     <title lang="en">MLB All Stars</title>
     <desc lang="en">Live streaming of MLB All Stars on RoxieStreams.</desc>
