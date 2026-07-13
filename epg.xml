@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
+  <channel id="floracing-1">
+    <display-name lang="en">Roxie Floracing-1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -60,14 +64,6 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="motogp">
-    <display-name lang="en">Roxie MotoGP</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nascar">
-    <display-name lang="en">Roxie NASCAR</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="nba-streams-1">
     <display-name lang="en">Roxie NBA 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -102,10 +98,6 @@
   </channel>
   <channel id="soccer-streams-3">
     <display-name lang="en">Roxie Soccer 3</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="wec">
-    <display-name lang="en">Roxie WEC</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <programme start="20260712180000 +0000" stop="20260712210000 +0000" channel="soccer-streams-1">
@@ -216,20 +208,8 @@
     <title lang="en">Redstall vs. Courtenay: Persistence</title>
     <desc lang="en">Live streaming of Redstall vs. Courtenay: Persistence on RoxieStreams.</desc>
   </programme>
-  <programme start="20260712074000 +0000" stop="20260712104000 +0000" channel="motogp">
-    <title lang="en">MotoGP - Coverage</title>
-    <desc lang="en">Live streaming of MotoGP - Coverage on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712150000 +0000" channel="motogp">
-    <title lang="en">MotoGP - Germany Grand Prix</title>
-    <desc lang="en">Live streaming of MotoGP - Germany Grand Prix on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260712143000 +0000" stop="20260712173000 +0000" channel="wec">
-    <title lang="en">WEC - Sao Paulo Race (6 HRS)</title>
-    <desc lang="en">Live streaming of WEC - Sao Paulo Race (6 HRS) on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260712230000 +0000" stop="20260713020000 +0000" channel="nascar">
-    <title lang="en">NASCAR Cup Series - Race</title>
-    <desc lang="en">Live streaming of NASCAR Cup Series - Race on RoxieStreams.</desc>
+  <programme start="20260713220000 +0000" stop="20260714010000 +0000" channel="floracing-1">
+    <title lang="en">High Limit Raching</title>
+    <desc lang="en">Live streaming of High Limit Raching on RoxieStreams.</desc>
   </programme>
 </tv>
