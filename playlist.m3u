@@ -10,7 +10,7 @@ https://admin22.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="mlb-streams-1" tvg-name="Roxie MLB 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="MLB",Roxie MLB 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/mlb.m3u8
+https://admin2.formaturamaxi.com.br/foxalt.m3u8
 #EXTINF:-1 tvg-id="floracing-1" tvg-name="Roxie Floracing-1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Floracing-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
