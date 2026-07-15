@@ -20,6 +20,10 @@
     <display-name lang="en">Roxie NBA 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="nba-streams-3">
+    <display-name lang="en">Roxie NBA 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -32,45 +36,33 @@
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-2">
-    <display-name lang="en">Roxie Soccer 2</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260714163000 +0000" stop="20260714193000 +0000" channel="soccer-streams-2">
-    <title lang="en">Sporting CP vs Celtic</title>
-    <desc lang="en">Live streaming of Sporting CP vs Celtic on RoxieStreams.</desc>
+  <programme start="20260715190000 +0000" stop="20260715220000 +0000" channel="soccer-streams-1">
+    <title lang="en">Argentina vs England</title>
+    <desc lang="en">Live streaming of Argentina vs England on RoxieStreams.</desc>
   </programme>
-  <programme start="20260714190000 +0000" stop="20260714220000 +0000" channel="soccer-streams-1">
-    <title lang="en">France vs Spain</title>
-    <desc lang="en">Live streaming of France vs Spain on RoxieStreams.</desc>
+  <programme start="20260716231000 +0000" stop="20260717021000 +0000" channel="mlb-streams-1">
+    <title lang="en">New York Mets vs Philadelphia Phillies</title>
+    <desc lang="en">Live streaming of New York Mets vs Philadelphia Phillies on RoxieStreams.</desc>
   </programme>
-  <programme start="20260715000000 +0000" stop="20260715030000 +0000" channel="mlb-streams-1">
-    <title lang="en">MLB All Stars</title>
-    <desc lang="en">Live streaming of MLB All Stars on RoxieStreams.</desc>
+  <programme start="20260715220000 +0000" stop="20260716010000 +0000" channel="nba-streams-1">
+    <title lang="en">Phoenix Suns vs Detroit Pistons</title>
+    <desc lang="en">Live streaming of Phoenix Suns vs Detroit Pistons on RoxieStreams.</desc>
   </programme>
-  <programme start="20260715010000 +0000" stop="20260715040000 +0000" channel="nba-streams-1">
-    <title lang="en">Denver Nuggets vs Oklahoma City Thunder</title>
-    <desc lang="en">Live streaming of Denver Nuggets vs Oklahoma City Thunder on RoxieStreams.</desc>
+  <programme start="20260716000000 +0000" stop="20260716030000 +0000" channel="nba-streams-2">
+    <title lang="en">Boston Celtics vs Sacramento Kings</title>
+    <desc lang="en">Live streaming of Boston Celtics vs Sacramento Kings on RoxieStreams.</desc>
   </programme>
-  <programme start="20260715020000 +0000" stop="20260715050000 +0000" channel="nba-streams-2">
-    <title lang="en">Los Angeles Clippers vs Los Angeles Lakers</title>
-    <desc lang="en">Live streaming of Los Angeles Clippers vs Los Angeles Lakers on RoxieStreams.</desc>
+  <programme start="20260716023000 +0000" stop="20260716053000 +0000" channel="nba-streams-3">
+    <title lang="en">Washington Wizards vs Los Angeles Clippers</title>
+    <desc lang="en">Live streaming of Washington Wizards vs Los Angeles Clippers on RoxieStreams.</desc>
   </programme>
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260715000000 +0000" stop="20260715030000 +0000" channel="wwe-streams">
-    <title lang="en">WWE NXT</title>
-    <desc lang="en">Live streaming of WWE NXT on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260718000000 +0000" stop="20260718030000 +0000" channel="wwe-streams">
-    <title lang="en">WWE Smackdown</title>
-    <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
   <programme start="20260715090000 +0000" stop="20260715120000 +0000" channel="ppv-streams-1">
     <title lang="en">Hardman vs Vaotuua (IBC)</title>
@@ -80,8 +72,12 @@
     <title lang="en">AEW</title>
     <desc lang="en">Live streaming of AEW on RoxieStreams.</desc>
   </programme>
-  <programme start="20260714223000 +0000" stop="20260715013000 +0000" channel="floracing-1">
-    <title lang="en">WoO Sprint Cars - Race</title>
-    <desc lang="en">Live streaming of WoO Sprint Cars - Race on RoxieStreams.</desc>
+  <programme start="20260718000000 +0000" stop="20260718030000 +0000" channel="wwe-streams">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260715223000 +0000" stop="20260716013000 +0000" channel="floracing-1">
+    <title lang="en">Interstate Batteries High Limit Racing</title>
+    <desc lang="en">Live streaming of Interstate Batteries High Limit Racing on RoxieStreams.</desc>
   </programme>
 </tv>
