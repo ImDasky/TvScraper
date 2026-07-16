@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
-  <channel id="aew">
-    <display-name lang="en">Roxie Aew</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="floracing-1">
     <display-name lang="en">Roxie Floracing-1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -12,24 +8,12 @@
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="nba-streams-1">
-    <display-name lang="en">Roxie NBA 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="nba-streams-2">
     <display-name lang="en">Roxie NBA 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="nba-streams-3">
-    <display-name lang="en">Roxie NBA 3</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ppv-streams-1">
-    <display-name lang="en">Roxie PPV 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-1">
@@ -80,35 +64,23 @@
     <title lang="en">New York Mets vs Philadelphia Phillies</title>
     <desc lang="en">Live streaming of New York Mets vs Philadelphia Phillies on RoxieStreams.</desc>
   </programme>
-  <programme start="20260715220000 +0000" stop="20260716010000 +0000" channel="nba-streams-1">
-    <title lang="en">Phoenix Suns vs Detroit Pistons</title>
-    <desc lang="en">Live streaming of Phoenix Suns vs Detroit Pistons on RoxieStreams.</desc>
+  <programme start="20260716230000 +0000" stop="20260717010000 +0000" channel="nba-streams-2">
+    <title lang="en">Golden State Warriors vs New York Knicks</title>
+    <desc lang="en">Live streaming of Golden State Warriors vs New York Knicks on RoxieStreams.</desc>
   </programme>
-  <programme start="20260716000000 +0000" stop="20260716030000 +0000" channel="nba-streams-2">
-    <title lang="en">Boston Celtics vs Sacramento Kings</title>
-    <desc lang="en">Live streaming of Boston Celtics vs Sacramento Kings on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260716023000 +0000" stop="20260716053000 +0000" channel="nba-streams-3">
-    <title lang="en">Washington Wizards vs Los Angeles Clippers</title>
-    <desc lang="en">Live streaming of Washington Wizards vs Los Angeles Clippers on RoxieStreams.</desc>
+  <programme start="20260717010000 +0000" stop="20260717040000 +0000" channel="nba-streams-2">
+    <title lang="en">Toronto Raptors vs Miami Heat</title>
+    <desc lang="en">Live streaming of Toronto Raptors vs Miami Heat on RoxieStreams.</desc>
   </programme>
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
   </programme>
-  <programme start="20260715090000 +0000" stop="20260715120000 +0000" channel="ppv-streams-1">
-    <title lang="en">Hardman vs Vaotuua (IBC)</title>
-    <desc lang="en">Live streaming of Hardman vs Vaotuua (IBC) on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260716000000 +0000" stop="20260716030000 +0000" channel="aew">
-    <title lang="en">AEW</title>
-    <desc lang="en">Live streaming of AEW on RoxieStreams.</desc>
-  </programme>
   <programme start="20260718000000 +0000" stop="20260718030000 +0000" channel="wwe-streams">
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
-  <programme start="20260715223000 +0000" stop="20260716013000 +0000" channel="floracing-1">
+  <programme start="20260716233000 +0000" stop="20260717023000 +0000" channel="floracing-1">
     <title lang="en">Interstate Batteries High Limit Racing</title>
     <desc lang="en">Live streaming of Interstate Batteries High Limit Racing on RoxieStreams.</desc>
   </programme>
