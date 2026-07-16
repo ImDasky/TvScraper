@@ -30,7 +30,7 @@ https://admin2.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-3" tvg-name="Roxie Soccer 3" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/tyc.m3u8
+https://tedesco.formaturamaxi.com.br/tyc.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-4" tvg-name="Roxie Soccer 4" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
