@@ -36,13 +36,45 @@
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-2">
+    <display-name lang="en">Roxie Soccer 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-3">
+    <display-name lang="en">Roxie Soccer 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-4">
+    <display-name lang="en">Roxie Soccer 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-5">
+    <display-name lang="en">Roxie Soccer 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260715190000 +0000" stop="20260715220000 +0000" channel="soccer-streams-1">
-    <title lang="en">Argentina vs England</title>
-    <desc lang="en">Live streaming of Argentina vs England on RoxieStreams.</desc>
+  <programme start="20260716223000 +0000" stop="20260717013000 +0000" channel="soccer-streams-1">
+    <title lang="en">Botafogo vs Santos</title>
+    <desc lang="en">Live streaming of Botafogo vs Santos on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260716223000 +0000" stop="20260717013000 +0000" channel="soccer-streams-2">
+    <title lang="en">Vitória vs Vasco Gama</title>
+    <desc lang="en">Live streaming of Vitória vs Vasco Gama on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260717004500 +0000" stop="20260717034500 +0000" channel="soccer-streams-3">
+    <title lang="en">Sarmiento vs Boca Juniors</title>
+    <desc lang="en">Live streaming of Sarmiento vs Boca Juniors on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260717010000 +0000" stop="20260717040000 +0000" channel="soccer-streams-4">
+    <title lang="en">Necaxa vs Atlante</title>
+    <desc lang="en">Live streaming of Necaxa vs Atlante on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260717030000 +0000" stop="20260717060000 +0000" channel="soccer-streams-5">
+    <title lang="en">Tijuana vs Tigres</title>
+    <desc lang="en">Live streaming of Tijuana vs Tigres on RoxieStreams.</desc>
   </programme>
   <programme start="20260716231000 +0000" stop="20260717021000 +0000" channel="mlb-streams-1">
     <title lang="en">New York Mets vs Philadelphia Phillies</title>
