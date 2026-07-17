@@ -36,29 +36,53 @@
     <display-name lang="en">Roxie Soccer 5</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-6">
+    <display-name lang="en">Roxie Soccer 6</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-7">
+    <display-name lang="en">Roxie Soccer 7</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-8">
+    <display-name lang="en">Roxie Soccer 8</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260716223000 +0000" stop="20260717013000 +0000" channel="soccer-streams-1">
-    <title lang="en">Botafogo vs Santos</title>
-    <desc lang="en">Live streaming of Botafogo vs Santos on RoxieStreams.</desc>
+  <programme start="20260717223000 +0000" stop="20260718013000 +0000" channel="soccer-streams-1">
+    <title lang="en">Bahia vs Chapecoense</title>
+    <desc lang="en">Live streaming of Bahia vs Chapecoense on RoxieStreams.</desc>
   </programme>
-  <programme start="20260716223000 +0000" stop="20260717013000 +0000" channel="soccer-streams-2">
-    <title lang="en">Vitória vs Vasco Gama</title>
-    <desc lang="en">Live streaming of Vitória vs Vasco Gama on RoxieStreams.</desc>
+  <programme start="20260717230000 +0000" stop="20260718020000 +0000" channel="soccer-streams-2">
+    <title lang="en">Fluminense vs RB Bragantino</title>
+    <desc lang="en">Live streaming of Fluminense vs RB Bragantino on RoxieStreams.</desc>
   </programme>
-  <programme start="20260717004500 +0000" stop="20260717034500 +0000" channel="soccer-streams-3">
-    <title lang="en">Sarmiento vs Boca Juniors</title>
-    <desc lang="en">Live streaming of Sarmiento vs Boca Juniors on RoxieStreams.</desc>
+  <programme start="20260717230000 +0000" stop="20260718020000 +0000" channel="soccer-streams-3">
+    <title lang="en">Mirassol vs Grêmio</title>
+    <desc lang="en">Live streaming of Mirassol vs Grêmio on RoxieStreams.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717040000 +0000" channel="soccer-streams-4">
-    <title lang="en">Necaxa vs Atlante</title>
-    <desc lang="en">Live streaming of Necaxa vs Atlante on RoxieStreams.</desc>
+  <programme start="20260718004500 +0000" stop="20260718034500 +0000" channel="soccer-streams-4">
+    <title lang="en">River Plate vs Aldosivi</title>
+    <desc lang="en">Live streaming of River Plate vs Aldosivi on RoxieStreams.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717060000 +0000" channel="soccer-streams-5">
-    <title lang="en">Tijuana vs Tigres</title>
-    <desc lang="en">Live streaming of Tijuana vs Tigres on RoxieStreams.</desc>
+  <programme start="20260718010000 +0000" stop="20260718040000 +0000" channel="soccer-streams-5">
+    <title lang="en">León vs Atlas</title>
+    <desc lang="en">Live streaming of León vs Atlas on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718040000 +0000" channel="soccer-streams-6">
+    <title lang="en">Atlético San Luis vs Cruz Azul</title>
+    <desc lang="en">Live streaming of Atlético San Luis vs Cruz Azul on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260718022500 +0000" stop="20260718052500 +0000" channel="soccer-streams-7">
+    <title lang="en">LA Galaxy vs Los Angeles FC</title>
+    <desc lang="en">Live streaming of LA Galaxy vs Los Angeles FC on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718060000 +0000" channel="soccer-streams-8">
+    <title lang="en">Juárez vs Puebla</title>
+    <desc lang="en">Live streaming of Juárez vs Puebla on RoxieStreams.</desc>
   </programme>
   <programme start="20260716231000 +0000" stop="20260717021000 +0000" channel="mlb-streams-1">
     <title lang="en">New York Mets vs Philadelphia Phillies</title>
