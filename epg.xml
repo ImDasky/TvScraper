@@ -144,6 +144,10 @@
     <display-name lang="en">Roxie UFC</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="wwe-streams">
+    <display-name lang="en">Roxie Wwe-streams</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <programme start="20260718150000 +0000" stop="20260718180000 +0000" channel="soccer-streams-2">
     <title lang="en">Dortmund vs Oberhausen</title>
     <desc lang="en">Live streaming of Dortmund vs Oberhausen on RoxieStreams.</desc>
@@ -263,6 +267,10 @@
   <programme start="20260718210000 +0000" stop="20260719000000 +0000" channel="ufc">
     <title lang="en">UFC Fight Night: Du Plessis vs. Usman</title>
     <desc lang="en">Live streaming of UFC Fight Night: Du Plessis vs. Usman on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260719000000 +0000" stop="20260719030000 +0000" channel="wwe-streams">
+    <title lang="en">WWE Saturday Main Event</title>
+    <desc lang="en">Live streaming of WWE Saturday Main Event on RoxieStreams.</desc>
   </programme>
   <programme start="20260719000000 +0000" stop="20260719030000 +0000" channel="ppv-streams-2">
     <title lang="en">RAF 11: Tsarukyan vs. Covington</title>
