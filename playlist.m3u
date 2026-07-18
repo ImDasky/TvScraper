@@ -71,6 +71,10 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
+#EXTINF:-1 tvg-id="floracing-2" tvg-name="Roxie Floracing-2" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Floracing-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/flo2.m3u8
 #EXTINF:-1 tvg-id="nba-streams-1" tvg-name="Roxie NBA 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NBA",Roxie NBA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
