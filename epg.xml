@@ -160,21 +160,21 @@
     <title lang="en">France vs England</title>
     <desc lang="en">Live streaming of France vs England on RoxieStreams.</desc>
   </programme>
-  <programme start="20260718230000 +0000" stop="20260719020000 +0000" channel="soccer-streams-6">
+  <programme start="20260718230000 +0000" stop="20260719010500 +0000" channel="soccer-streams-6">
     <title lang="en">Pumas UNAM vs Pachuca</title>
     <desc lang="en">Live streaming of Pumas UNAM vs Pachuca on RoxieStreams.</desc>
   </programme>
-  <programme start="20260719010500 +0000" stop="20260719022500 +0000" channel="soccer-streams-7">
+  <programme start="20260719010500 +0000" stop="20260719040500 +0000" channel="soccer-streams-6">
     <title lang="en">Monterrey vs Santos Laguna</title>
     <desc lang="en">Live streaming of Monterrey vs Santos Laguna on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260719022500 +0000" stop="20260719052500 +0000" channel="soccer-streams-7">
-    <title lang="en">Querétaro vs America</title>
-    <desc lang="en">Live streaming of Querétaro vs America on RoxieStreams.</desc>
   </programme>
   <programme start="20260719010700 +0000" stop="20260719040700 +0000" channel="soccer-streams-8">
     <title lang="en">Chivas vs Toluca</title>
     <desc lang="en">Live streaming of Chivas vs Toluca on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260719022500 +0000" stop="20260719052500 +0000" channel="soccer-streams-7">
+    <title lang="en">Querétaro vs America</title>
+    <desc lang="en">Live streaming of Querétaro vs America on RoxieStreams.</desc>
   </programme>
   <programme start="20260718171000 +0000" stop="20260718201000 +0000" channel="mlb-streams-1">
     <title lang="en">Pittsburgh Pirates vs Cleveland Guardians</title>
