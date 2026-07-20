@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
-  <channel id="floracing-1">
-    <display-name lang="en">Roxie Floracing-1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="indycar">
     <display-name lang="en">Roxie Indycar</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -66,10 +62,6 @@
   </channel>
   <channel id="mlb-streams-9">
     <display-name lang="en">Roxie MLB 9</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nascar">
-    <display-name lang="en">Roxie NASCAR</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nhl-streams-1">
@@ -144,24 +136,12 @@
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
   </programme>
-  <programme start="20260720000000 +0000" stop="20260720030000 +0000" channel="wwe-streams">
+  <programme start="20260721000000 +0000" stop="20260721030000 +0000" channel="wwe-streams">
     <title lang="en">WWE RAW</title>
     <desc lang="en">Live streaming of WWE RAW on RoxieStreams.</desc>
   </programme>
-  <programme start="20260719170500 +0000" stop="20260719200500 +0000" channel="indycar">
-    <title lang="en">Indy NXT - Race</title>
-    <desc lang="en">Live streaming of Indy NXT - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260719213000 +0000" stop="20260720003000 +0000" channel="indycar">
+  <programme start="20260720190000 +0000" stop="20260720220000 +0000" channel="indycar">
     <title lang="en">Indycar Series - Race</title>
     <desc lang="en">Live streaming of Indycar Series - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260719230000 +0000" stop="20260720020000 +0000" channel="nascar">
-    <title lang="en">NASCAR Cup Series - Race</title>
-    <desc lang="en">Live streaming of NASCAR Cup Series - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260719233000 +0000" stop="20260720023000 +0000" channel="floracing-1">
-    <title lang="en">Winged 410 Sprint Cars - Huset's Speedway</title>
-    <desc lang="en">Live streaming of Winged 410 Sprint Cars - Huset's Speedway on RoxieStreams.</desc>
   </programme>
 </tv>
