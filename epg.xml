@@ -68,10 +68,42 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-2">
+    <display-name lang="en">Roxie Soccer 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-3">
+    <display-name lang="en">Roxie Soccer 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-4">
+    <display-name lang="en">Roxie Soccer 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-5">
+    <display-name lang="en">Roxie Soccer 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <programme start="20260721223000 +0000" stop="20260722013000 +0000" channel="soccer-streams-2">
+    <title lang="en">Atlético Mineiro vs Bahia</title>
+    <desc lang="en">Live streaming of Atlético Mineiro vs Bahia on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260722003000 +0000" stop="20260722033000 +0000" channel="soccer-streams-3">
+    <title lang="en">UCV vs Santos</title>
+    <desc lang="en">Live streaming of UCV vs Santos on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260722010000 +0000" stop="20260722040000 +0000" channel="soccer-streams-4">
+    <title lang="en">Cruz Azul vs Puebla</title>
+    <desc lang="en">Live streaming of Cruz Azul vs Puebla on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260722030500 +0000" stop="20260722060500 +0000" channel="soccer-streams-5">
+    <title lang="en">Toluca vs Pumas UNAM</title>
+    <desc lang="en">Live streaming of Toluca vs Pumas UNAM on RoxieStreams.</desc>
+  </programme>
   <programme start="20260720224000 +0000" stop="20260721014000 +0000" channel="mlb-streams-1">
     <title lang="en">Minnesota Twins vs Cleveland Guardians</title>
     <desc lang="en">Live streaming of Minnesota Twins vs Cleveland Guardians on RoxieStreams.</desc>
