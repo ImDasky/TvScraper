@@ -32,6 +32,14 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-10">
+    <display-name lang="en">Roxie Soccer 10</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-11">
+    <display-name lang="en">Roxie Soccer 11</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -46,6 +54,10 @@
   </channel>
   <channel id="soccer-streams-5">
     <display-name lang="en">Roxie Soccer 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-9">
+    <display-name lang="en">Roxie Soccer 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="wwe-streams">
@@ -71,6 +83,18 @@
   <programme start="20260723223000 +0000" stop="20260724013000 +0000" channel="soccer-streams-5">
     <title lang="en">Corinthians vs Remo</title>
     <desc lang="en">Live streaming of Corinthians vs Remo on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260723223000 +0000" stop="20260724013000 +0000" channel="soccer-streams-9">
+    <title lang="en">Belgrano vs Rosario Central</title>
+    <desc lang="en">Live streaming of Belgrano vs Rosario Central on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260723223000 +0000" stop="20260724013000 +0000" channel="soccer-streams-10">
+    <title lang="en">Sarmiento vs Argentinos Juniors</title>
+    <desc lang="en">Live streaming of Sarmiento vs Argentinos Juniors on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260724004500 +0000" stop="20260724034500 +0000" channel="soccer-streams-11">
+    <title lang="en">Defensa y Justicia vs Aldosivi</title>
+    <desc lang="en">Live streaming of Defensa y Justicia vs Aldosivi on RoxieStreams.</desc>
   </programme>
   <programme start="20260723161500 +0000" stop="20260723191500 +0000" channel="mlb-streams-1">
     <title lang="en">San Diego Padres vs Atlanta Braves</title>
