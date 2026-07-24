@@ -92,6 +92,10 @@
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-11">
+    <display-name lang="en">Roxie Soccer 11</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -135,6 +139,10 @@
   <programme start="20260724220000 +0000" stop="20260725010000 +0000" channel="soccer-streams-3">
     <title lang="en">Vélez Sarsfield vs Instituto</title>
     <desc lang="en">Live streaming of Vélez Sarsfield vs Instituto on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260724230000 +0000" stop="20260725020000 +0000" channel="soccer-streams-11">
+    <title lang="en">Mexico U20 vs Antigua and Barbuda U20</title>
+    <desc lang="en">Live streaming of Mexico U20 vs Antigua and Barbuda U20 on RoxieStreams.</desc>
   </programme>
   <programme start="20260725001500 +0000" stop="20260725031500 +0000" channel="soccer-streams-4">
     <title lang="en">Huracán vs Banfield</title>
