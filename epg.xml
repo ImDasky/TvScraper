@@ -88,6 +88,10 @@
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-10">
+    <display-name lang="en">Roxie Soccer 10</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -143,6 +147,10 @@
   <programme start="20260725003000 +0000" stop="20260725033000 +0000" channel="soccer-streams-9">
     <title lang="en">Colo-Colo vs Deportes Limache</title>
     <desc lang="en">Live streaming of Colo-Colo vs Deportes Limache on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260725010000 +0000" stop="20260725040000 +0000" channel="soccer-streams-10">
+    <title lang="en">Mineros de Zacatecas vs Correcaminos UAT</title>
+    <desc lang="en">Live streaming of Mineros de Zacatecas vs Correcaminos UAT on RoxieStreams.</desc>
   </programme>
   <programme start="20260725030000 +0000" stop="20260725060000 +0000" channel="soccer-streams-6">
     <title lang="en">Atlante vs América</title>
