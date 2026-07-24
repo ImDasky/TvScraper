@@ -66,7 +66,7 @@ https://admin2.formaturamaxi.com.br/mlb9.m3u8
 #EXTINF:-1 tvg-id="arca" tvg-name="Roxie Arca" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Arca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/arca.m3u8
+https://admin2.formaturamaxi.com.br/nascar.m3u8
 #EXTINF:-1 tvg-id="f1" tvg-name="Roxie F1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
