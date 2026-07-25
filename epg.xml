@@ -8,6 +8,10 @@
     <display-name lang="en">Roxie Floracing-1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="floracing-2">
+    <display-name lang="en">Roxie Floracing-2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -329,6 +333,10 @@
     <desc lang="en">Live streaming of NASCAR O'Reilly Auto Parts - Race on RoxieStreams.</desc>
   </programme>
   <programme start="20260725223000 +0000" stop="20260726013000 +0000" channel="floracing-1">
+    <title lang="en">USAC Sprint Cars</title>
+    <desc lang="en">Live streaming of USAC Sprint Cars on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260725223000 +0000" stop="20260726013000 +0000" channel="floracing-2">
     <title lang="en">High Limit Racing</title>
     <desc lang="en">Live streaming of High Limit Racing on RoxieStreams.</desc>
   </programme>
