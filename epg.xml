@@ -116,6 +116,10 @@
     <display-name lang="en">Roxie Soccer 17</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-18">
+    <display-name lang="en">Roxie Soccer 18</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -207,6 +211,10 @@
   <programme start="20260725233000 +0000" stop="20260726023000 +0000" channel="soccer-streams-13">
     <title lang="en">Wrexham vs Leeds United</title>
     <desc lang="en">Live streaming of Wrexham vs Leeds United on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260726003000 +0000" stop="20260726033000 +0000" channel="soccer-streams-18">
+    <title lang="en">Toluca vs Cruz Azul</title>
+    <desc lang="en">Live streaming of Toluca vs Cruz Azul on RoxieStreams.</desc>
   </programme>
   <programme start="20260726013000 +0000" stop="20260726043000 +0000" channel="soccer-streams-14">
     <title lang="en">San Diego vs Dallas</title>
