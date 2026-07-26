@@ -88,6 +88,10 @@
     <display-name lang="en">Roxie PPV 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ppv-streams-3">
+    <display-name lang="en">Roxie PPV 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-1">
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -319,6 +323,10 @@
   <programme start="20260726010000 +0000" stop="20260726040000 +0000" channel="ppv-streams-2">
     <title lang="en">TSZYU vs SPENCE JR</title>
     <desc lang="en">Live streaming of TSZYU vs SPENCE JR on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260726020000 +0000" stop="20260726050000 +0000" channel="ppv-streams-3">
+    <title lang="en">PFL: Jean vs Rodriguezv</title>
+    <desc lang="en">Live streaming of PFL: Jean vs Rodriguezv on RoxieStreams.</desc>
   </programme>
   <programme start="20260725103000 +0000" stop="20260725133000 +0000" channel="f1">
     <title lang="en">Formula 1 - Free Practice</title>
