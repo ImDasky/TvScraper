@@ -66,7 +66,7 @@ https://temp.formaturamaxi.com.br/mlb9.m3u8
 #EXTINF:-1 tvg-id="f1" tvg-name="Roxie F1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/f1.m3u8
+https://temp.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="floracing-1" tvg-name="Roxie Floracing-1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Floracing-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -94,44 +94,44 @@ https://temp2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-10" tvg-name="Roxie Soccer 10" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/mlb5.m3u8
+https://temp.formaturamaxi.com.br/fana8.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-11" tvg-name="Roxie Soccer 11" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/mls.m3u8
+https://temp.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-12" tvg-name="Roxie Soccer 12" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/fana4.m3u8
+https://temp.formaturamaxi.com.br/foxonemx.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-2" tvg-name="Roxie Soccer 2" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/bein2.m3u8
+https://tedesco.formaturamaxi.com.br/prem2.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-3" tvg-name="Roxie Soccer 3" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/sportv2.m3u8
+https://temp.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-4" tvg-name="Roxie Soccer 4" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/sportv2.m3u8
+https://temp.formaturamaxi.com.br/fana2.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-5" tvg-name="Roxie Soccer 5" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/fana.m3u8
+https://temp.formaturamaxi.com.br/fana3.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-6" tvg-name="Roxie Soccer 6" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/fana2.m3u8
+https://temp.formaturamaxi.com.br/fana4.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-7" tvg-name="Roxie Soccer 7" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/lfc.m3u8
+https://temp.formaturamaxi.com.br/fana5.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-8" tvg-name="Roxie Soccer 8" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/fana3.m3u8
+https://temp.formaturamaxi.com.br/fana6.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-9" tvg-name="Roxie Soccer 9" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/telemundo.m3u8
+https://temp.formaturamaxi.com.br/fana7.m3u8
