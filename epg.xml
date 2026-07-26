@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
+  <channel id="aew">
+    <display-name lang="en">Roxie Aew</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="f1">
     <display-name lang="en">Roxie F1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -247,6 +251,10 @@
   <programme start="20260726220000 +0000" stop="20260727010000 +0000" channel="ppv-streams-1">
     <title lang="en">Zuffa Boxing 9: Berlanga vs. Butler</title>
     <desc lang="en">Live streaming of Zuffa Boxing 9: Berlanga vs. Butler on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260726230000 +0000" stop="20260727020000 +0000" channel="aew">
+    <title lang="en">AEW: Redemption</title>
+    <desc lang="en">Live streaming of AEW: Redemption on RoxieStreams.</desc>
   </programme>
   <programme start="20260728000000 +0000" stop="20260728030000 +0000" channel="wwe-streams">
     <title lang="en">WWE RAW</title>
