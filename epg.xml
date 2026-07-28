@@ -56,10 +56,18 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-2">
+    <display-name lang="en">Roxie Soccer 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <programme start="20260728020000 +0000" stop="20260728050000 +0000" channel="soccer-streams-2">
+    <title lang="en">Costa Rica U20 vs Mexico U20</title>
+    <desc lang="en">Live streaming of Costa Rica U20 vs Mexico U20 on RoxieStreams.</desc>
+  </programme>
   <programme start="20260727183500 +0000" stop="20260727213500 +0000" channel="mlb-streams-1">
     <title lang="en">Seattle Mariners vs Texas Rangers</title>
     <desc lang="en">Live streaming of Seattle Mariners vs Texas Rangers on RoxieStreams.</desc>
