@@ -60,13 +60,45 @@
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-3">
+    <display-name lang="en">Roxie Soccer 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-4">
+    <display-name lang="en">Roxie Soccer 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-5">
+    <display-name lang="en">Roxie Soccer 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-6">
+    <display-name lang="en">Roxie Soccer 6</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260728020000 +0000" stop="20260728050000 +0000" channel="soccer-streams-2">
-    <title lang="en">Costa Rica U20 vs Mexico U20</title>
-    <desc lang="en">Live streaming of Costa Rica U20 vs Mexico U20 on RoxieStreams.</desc>
+  <programme start="20260728220000 +0000" stop="20260729010000 +0000" channel="soccer-streams-2">
+    <title lang="en">Banfield vs Sarmiento</title>
+    <desc lang="en">Live streaming of Banfield vs Sarmiento on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260728220000 +0000" stop="20260729010000 +0000" channel="soccer-streams-3">
+    <title lang="en">San Lorenzo vs Gimnasia Mendoza</title>
+    <desc lang="en">Live streaming of San Lorenzo vs Gimnasia Mendoza on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260729001500 +0000" stop="20260729031500 +0000" channel="soccer-streams-4">
+    <title lang="en">Argentinos Juniors vs Estudiantes Río Cuarto</title>
+    <desc lang="en">Live streaming of Argentinos Juniors vs Estudiantes Río Cuarto on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260729001500 +0000" stop="20260729031500 +0000" channel="soccer-streams-5">
+    <title lang="en">Rosario Central vs Racing Club</title>
+    <desc lang="en">Live streaming of Rosario Central vs Racing Club on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260729003000 +0000" stop="20260729033000 +0000" channel="soccer-streams-6">
+    <title lang="en">Santos vs UCV</title>
+    <desc lang="en">Live streaming of Santos vs UCV on RoxieStreams.</desc>
   </programme>
   <programme start="20260727183500 +0000" stop="20260727213500 +0000" channel="mlb-streams-1">
     <title lang="en">Seattle Mariners vs Texas Rangers</title>
