@@ -100,6 +100,10 @@
     <display-name lang="en">Roxie Soccer 5</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-6">
+    <display-name lang="en">Roxie Soccer 6</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-7">
     <display-name lang="en">Roxie Soccer 7</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -159,6 +163,10 @@
   <programme start="20260729001500 +0000" stop="20260729031500 +0000" channel="soccer-streams-5">
     <title lang="en">Rosario Central vs Racing Club</title>
     <desc lang="en">Live streaming of Rosario Central vs Racing Club on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260728233000 +0000" stop="20260729023000 +0000" channel="soccer-streams-6">
+    <title lang="en">MLS All-Star Skills Challenge</title>
+    <desc lang="en">Live streaming of MLS All-Star Skills Challenge on RoxieStreams.</desc>
   </programme>
   <programme start="20260728174000 +0000" stop="20260728204000 +0000" channel="mlb-streams-1">
     <title lang="en">Cleveland Guardians vs Cincinnati Reds</title>
