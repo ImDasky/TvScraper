@@ -100,6 +100,10 @@
     <display-name lang="en">Roxie Soccer 15</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-16">
+    <display-name lang="en">Roxie Soccer 16</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -143,6 +147,10 @@
   <programme start="20260729180000 +0000" stop="20260729210000 +0000" channel="soccer-streams-15">
     <title lang="en">Real Betis vs Lyon</title>
     <desc lang="en">Live streaming of Real Betis vs Lyon on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260729183000 +0000" stop="20260729213000 +0000" channel="soccer-streams-16">
+    <title lang="en">Doncaster vs Wolves</title>
+    <desc lang="en">Live streaming of Doncaster vs Wolves on RoxieStreams.</desc>
   </programme>
   <programme start="20260729200000 +0000" stop="20260729230000 +0000" channel="soccer-streams-2">
     <title lang="en">Defensa y Justicia vs Deportivo Riestra</title>
