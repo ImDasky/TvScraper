@@ -88,10 +88,6 @@
     <display-name lang="en">Roxie Soccer 11</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-12">
-    <display-name lang="en">Roxie Soccer 12</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="soccer-streams-14">
     <display-name lang="en">Roxie Soccer 14</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -195,10 +191,6 @@
   <programme start="20260730003000 +0000" stop="20260730033000 +0000" channel="soccer-streams-11">
     <title lang="en">Instituto vs Platense</title>
     <desc lang="en">Live streaming of Instituto vs Platense on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260730003000 +0000" stop="20260730033000 +0000" channel="soccer-streams-12">
-    <title lang="en">Cienciano vs Lanús</title>
-    <desc lang="en">Live streaming of Cienciano vs Lanús on RoxieStreams.</desc>
   </programme>
   <programme start="20260729161000 +0000" stop="20260729191000 +0000" channel="mlb-streams-1">
     <title lang="en">Philadelphia Phillies vs Miami Marlins</title>
