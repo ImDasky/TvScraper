@@ -68,6 +68,10 @@
     <display-name lang="en">Roxie Soccer 5</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-6">
+    <display-name lang="en">Roxie Soccer 6</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <programme start="20260730220000 +0000" stop="20260731003000 +0000" channel="soccer-streams-4">
     <title lang="en">Grêmio vs Bolivar</title>
     <desc lang="en">Live streaming of Grêmio vs Bolivar on RoxieStreams.</desc>
@@ -87,6 +91,10 @@
   <programme start="20260731003000 +0000" stop="20260731033000 +0000" channel="soccer-streams-5">
     <title lang="en">Coritiba vs Cruzeiro</title>
     <desc lang="en">Live streaming of Coritiba vs Cruzeiro on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260731010000 +0000" stop="20260731040000 +0000" channel="soccer-streams-6">
+    <title lang="en">Mexico U20 vs Guatemala U20</title>
+    <desc lang="en">Live streaming of Mexico U20 vs Guatemala U20 on RoxieStreams.</desc>
   </programme>
   <programme start="20260730161000 +0000" stop="20260730191000 +0000" channel="mlb-streams-1">
     <title lang="en">Texas Rangers vs Tampa Bay Rays</title>
