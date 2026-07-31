@@ -72,29 +72,25 @@
     <display-name lang="en">Roxie Soccer 6</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260730220000 +0000" stop="20260731003000 +0000" channel="soccer-streams-4">
-    <title lang="en">Grêmio vs Bolivar</title>
-    <desc lang="en">Live streaming of Grêmio vs Bolivar on RoxieStreams.</desc>
+  <programme start="20260731200000 +0000" stop="20260731230000 +0000" channel="soccer-streams-2">
+    <title lang="en">Los Chankas vs Comerciantes Unidos</title>
+    <desc lang="en">Live streaming of Los Chankas vs Comerciantes Unidos on RoxieStreams.</desc>
   </programme>
-  <programme start="20260731003000 +0000" stop="20260731033000 +0000" channel="soccer-streams-4">
-    <title lang="en">O'Higgins vs Boca Juniors</title>
-    <desc lang="en">Live streaming of O'Higgins vs Boca Juniors on RoxieStreams.</desc>
+  <programme start="20260731233000 +0000" stop="20260801023000 +0000" channel="soccer-streams-3">
+    <title lang="en">New York City vs Toronto FC</title>
+    <desc lang="en">Live streaming of New York City vs Toronto FC on RoxieStreams.</desc>
   </programme>
-  <programme start="20260730223000 +0000" stop="20260731013000 +0000" channel="soccer-streams-2">
-    <title lang="en">Corinthians vs Athletico-PR</title>
-    <desc lang="en">Live streaming of Corinthians vs Athletico-PR on RoxieStreams.</desc>
+  <programme start="20260801010000 +0000" stop="20260801040000 +0000" channel="soccer-streams-4">
+    <title lang="en">Puebla vs Guadalajara</title>
+    <desc lang="en">Live streaming of Puebla vs Guadalajara on RoxieStreams.</desc>
   </programme>
-  <programme start="20260730233000 +0000" stop="20260731023000 +0000" channel="soccer-streams-3">
-    <title lang="en">Sunderland vs Leeds Utd</title>
-    <desc lang="en">Live streaming of Sunderland vs Leeds Utd on RoxieStreams.</desc>
+  <programme start="20260801030000 +0000" stop="20260801060000 +0000" channel="soccer-streams-5">
+    <title lang="en">Atlético de San Luis vs Tijuana</title>
+    <desc lang="en">Live streaming of Atlético de San Luis vs Tijuana on RoxieStreams.</desc>
   </programme>
-  <programme start="20260731003000 +0000" stop="20260731033000 +0000" channel="soccer-streams-5">
-    <title lang="en">Coritiba vs Cruzeiro</title>
-    <desc lang="en">Live streaming of Coritiba vs Cruzeiro on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260731010000 +0000" stop="20260731040000 +0000" channel="soccer-streams-6">
-    <title lang="en">Mexico U20 vs Guatemala U20</title>
-    <desc lang="en">Live streaming of Mexico U20 vs Guatemala U20 on RoxieStreams.</desc>
+  <programme start="20260801030000 +0000" stop="20260801060000 +0000" channel="soccer-streams-6">
+    <title lang="en">Juárez vs Pumas UNAM</title>
+    <desc lang="en">Live streaming of Juárez vs Pumas UNAM on RoxieStreams.</desc>
   </programme>
   <programme start="20260730161000 +0000" stop="20260730191000 +0000" channel="mlb-streams-1">
     <title lang="en">Texas Rangers vs Tampa Bay Rays</title>
