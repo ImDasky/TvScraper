@@ -76,6 +76,18 @@
     <display-name lang="en">Roxie PPV 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ppv-streams-2">
+    <display-name lang="en">Roxie PPV 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-3">
+    <display-name lang="en">Roxie PPV 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-1">
+    <display-name lang="en">Roxie Soccer 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-10">
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -136,10 +148,18 @@
     <display-name lang="en">Roxie Soccer 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ufc">
+    <display-name lang="en">Roxie UFC</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <programme start="20260801100000 +0000" stop="20260801130000 +0000" channel="soccer-streams-1">
+    <title lang="en">Tokyo vs Dortmund</title>
+    <desc lang="en">Live streaming of Tokyo vs Dortmund on RoxieStreams.</desc>
+  </programme>
   <programme start="20260801113000 +0000" stop="20260801143000 +0000" channel="soccer-streams-2">
     <title lang="en">Man City vs Inter Milan</title>
     <desc lang="en">Live streaming of Man City vs Inter Milan on RoxieStreams.</desc>
@@ -284,19 +304,31 @@
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
   </programme>
-  <programme start="20260731200000 +0000" stop="20260731230000 +0000" channel="ppv-streams-1">
-    <title lang="en">PFL: New York</title>
-    <desc lang="en">Live streaming of PFL: New York on RoxieStreams.</desc>
+  <programme start="20260801140000 +0000" stop="20260801170000 +0000" channel="ufc">
+    <title lang="en">UFC Fight Night: Medic vs. Rodriguez</title>
+    <desc lang="en">Live streaming of UFC Fight Night: Medic vs. Rodriguez on RoxieStreams.</desc>
   </programme>
-  <programme start="20260801000000 +0000" stop="20260801030000 +0000" channel="wwe-streams">
-    <title lang="en">WWE Smackdown</title>
-    <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
+  <programme start="20260801160000 +0000" stop="20260801190000 +0000" channel="ppv-streams-3">
+    <title lang="en">East vs West XXV</title>
+    <desc lang="en">Live streaming of East vs West XXV on RoxieStreams.</desc>
   </programme>
-  <programme start="20260731224500 +0000" stop="20260801014500 +0000" channel="floracing-1">
+  <programme start="20260801180000 +0000" stop="20260801210000 +0000" channel="ppv-streams-1">
+    <title lang="en">O'Leary vs. Chamberlain</title>
+    <desc lang="en">Live streaming of O'Leary vs. Chamberlain on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260801220000 +0000" stop="20260802010000 +0000" channel="wwe-streams">
+    <title lang="en">WWE Summerslam (Day 1)</title>
+    <desc lang="en">Live streaming of WWE Summerslam (Day 1) on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260802000000 +0000" stop="20260802030000 +0000" channel="ppv-streams-2">
+    <title lang="en">Roach Jr. vs. Zepeda</title>
+    <desc lang="en">Live streaming of Roach Jr. vs. Zepeda on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260801230000 +0000" stop="20260802020000 +0000" channel="floracing-1">
     <title lang="en">USAC Sprint Cars - Race</title>
     <desc lang="en">Live streaming of USAC Sprint Cars - Race on RoxieStreams.</desc>
   </programme>
-  <programme start="20260731224500 +0000" stop="20260801014500 +0000" channel="floracing-2">
+  <programme start="20260801230000 +0000" stop="20260802020000 +0000" channel="floracing-2">
     <title lang="en">WoO Sprint Cars - Race</title>
     <desc lang="en">Live streaming of WoO Sprint Cars - Race on RoxieStreams.</desc>
   </programme>
