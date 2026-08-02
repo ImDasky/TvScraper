@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
+  <channel id="floracing-1">
+    <display-name lang="en">Roxie Floracing-1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="imsa">
     <display-name lang="en">Roxie Imsa</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -231,5 +235,9 @@
   <programme start="20260802154000 +0000" stop="20260802184000 +0000" channel="imsa">
     <title lang="en">IMSA WeatherTech - MOTUL Grand Prix</title>
     <desc lang="en">Live streaming of IMSA WeatherTech - MOTUL Grand Prix on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260802233000 +0000" stop="20260803023000 +0000" channel="floracing-1">
+    <title lang="en">Winged 410 Sprint Cars - Race @ Huset's</title>
+    <desc lang="en">Live streaming of Winged 410 Sprint Cars - Race @ Huset's on RoxieStreams.</desc>
   </programme>
 </tv>
