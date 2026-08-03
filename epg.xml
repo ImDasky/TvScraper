@@ -56,6 +56,14 @@
     <display-name lang="en">Roxie Soccer 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-4">
+    <display-name lang="en">Roxie Soccer 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-5">
+    <display-name lang="en">Roxie Soccer 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -67,6 +75,14 @@
   <programme start="20260804000000 +0000" stop="20260804030000 +0000" channel="soccer-streams-3">
     <title lang="en">Athletico-PR vs Vitoria</title>
     <desc lang="en">Live streaming of Athletico-PR vs Vitoria on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260804001500 +0000" stop="20260804031500 +0000" channel="soccer-streams-4">
+    <title lang="en">Huracán vs Atlético Tucumán</title>
+    <desc lang="en">Live streaming of Huracán vs Atlético Tucumán on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260804001500 +0000" stop="20260804031500 +0000" channel="soccer-streams-5">
+    <title lang="en">Central Córdoba SdE vs San Lorenzo</title>
+    <desc lang="en">Live streaming of Central Córdoba SdE vs San Lorenzo on RoxieStreams.</desc>
   </programme>
   <programme start="20260803224000 +0000" stop="20260804014000 +0000" channel="mlb-streams-1">
     <title lang="en">Washington Nationals vs Philadelphia Phillies</title>
