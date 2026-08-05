@@ -96,6 +96,10 @@
     <display-name lang="en">Roxie Soccer 15</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-16">
+    <display-name lang="en">Roxie Soccer 16</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -159,6 +163,10 @@
   <programme start="20260805233000 +0000" stop="20260806023000 +0000" channel="soccer-streams-9">
     <title lang="en">Monterrey vs Orlando City</title>
     <desc lang="en">Live streaming of Monterrey vs Orlando City on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260806001500 +0000" stop="20260806031500 +0000" channel="soccer-streams-16">
+    <title lang="en">Tigre vs Belgrano</title>
+    <desc lang="en">Live streaming of Tigre vs Belgrano on RoxieStreams.</desc>
   </programme>
   <programme start="20260806003000 +0000" stop="20260806033000 +0000" channel="soccer-streams-10">
     <title lang="en">Dallas vs Queretaro</title>
