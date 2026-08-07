@@ -92,6 +92,10 @@
     <display-name lang="en">Roxie PPV 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-10">
+    <display-name lang="en">Roxie Soccer 10</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -135,6 +139,10 @@
   <programme start="20260807190000 +0000" stop="20260807220000 +0000" channel="soccer-streams-3">
     <title lang="en">Barcelona vs Nottingham Forest</title>
     <desc lang="en">Live streaming of Barcelona vs Nottingham Forest on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260807210000 +0000" stop="20260808000000 +0000" channel="soccer-streams-10">
+    <title lang="en">Costa Rica U20 vs United States U20</title>
+    <desc lang="en">Live streaming of Costa Rica U20 vs United States U20 on RoxieStreams.</desc>
   </programme>
   <programme start="20260807233000 +0000" stop="20260808023000 +0000" channel="soccer-streams-4">
     <title lang="en">Columbus Crew vs Pachuca</title>
