@@ -1,7 +1,19 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
+  <channel id="arca">
+    <display-name lang="en">Roxie Arca</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="floracing-1">
     <display-name lang="en">Roxie Floracing-1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="floracing-2">
+    <display-name lang="en">Roxie Floracing-2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="indycar">
+    <display-name lang="en">Roxie Indycar</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="mlb-streams-1">
@@ -64,8 +76,20 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="motogp">
+    <display-name lang="en">Roxie MotoGP</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-1">
+    <display-name lang="en">Roxie PPV 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-2">
+    <display-name lang="en">Roxie PPV 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-2">
@@ -192,12 +216,36 @@
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
   </programme>
+  <programme start="20260807230000 +0000" stop="20260808020000 +0000" channel="ppv-streams-1">
+    <title lang="en">PFL Charlotte: Battle vs. Rosta</title>
+    <desc lang="en">Live streaming of PFL Charlotte: Battle vs. Rosta on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260808000000 +0000" stop="20260808030000 +0000" channel="ppv-streams-2">
+    <title lang="en">BoxFest XIX</title>
+    <desc lang="en">Live streaming of BoxFest XIX on RoxieStreams.</desc>
+  </programme>
   <programme start="20260808000000 +0000" stop="20260808030000 +0000" channel="wwe-streams">
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
-  <programme start="20260806234500 +0000" stop="20260807024500 +0000" channel="floracing-1">
-    <title lang="en">ASCS National Tour Knoxville - Race</title>
-    <desc lang="en">Live streaming of ASCS National Tour Knoxville - Race on RoxieStreams.</desc>
+  <programme start="20260807104500 +0000" stop="20260807134500 +0000" channel="motogp">
+    <title lang="en">MotoGP - Coverage</title>
+    <desc lang="en">Live streaming of MotoGP - Coverage on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260807213500 +0000" stop="20260808003500 +0000" channel="indycar">
+    <title lang="en">Indycar Series - Free Practice</title>
+    <desc lang="en">Live streaming of Indycar Series - Free Practice on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260807230000 +0000" stop="20260808020000 +0000" channel="arca">
+    <title lang="en">ARCA Menards Series - Race</title>
+    <desc lang="en">Live streaming of ARCA Menards Series - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260807233000 +0000" stop="20260808023000 +0000" channel="floracing-1">
+    <title lang="en">WoO Sprint Cars / Xtreme Outlaw Midgets</title>
+    <desc lang="en">Live streaming of WoO Sprint Cars / Xtreme Outlaw Midgets on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260807234500 +0000" stop="20260808024500 +0000" channel="floracing-2">
+    <title lang="en">ASCS National Tour Knoxville - Night 2</title>
+    <desc lang="en">Live streaming of ASCS National Tour Knoxville - Night 2 on RoxieStreams.</desc>
   </programme>
 </tv>
