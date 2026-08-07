@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
+  <channel id="floracing-1">
+    <display-name lang="en">Roxie Floracing-1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -44,10 +48,6 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="mxgp">
-    <display-name lang="en">Roxie Mxgp</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -58,6 +58,10 @@
   </channel>
   <channel id="soccer-streams-11">
     <display-name lang="en">Roxie Soccer 11</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-12">
+    <display-name lang="en">Roxie Soccer 12</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-2">
@@ -103,6 +107,10 @@
   <programme start="20260806190000 +0000" stop="20260806220000 +0000" channel="soccer-streams-3">
     <title lang="en">Benfica vs Hearts</title>
     <desc lang="en">Live streaming of Benfica vs Hearts on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260806220000 +0000" stop="20260807010000 +0000" channel="soccer-streams-12">
+    <title lang="en">Unión Santa Fe vs Lanús</title>
+    <desc lang="en">Live streaming of Unión Santa Fe vs Lanús on RoxieStreams.</desc>
   </programme>
   <programme start="20260806230000 +0000" stop="20260807020000 +0000" channel="soccer-streams-4">
     <title lang="en">Vitória vs Athletico-PR</title>
@@ -188,7 +196,7 @@
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
-  <programme start="20260806234500 +0000" stop="20260807024500 +0000" channel="mxgp">
+  <programme start="20260806234500 +0000" stop="20260807024500 +0000" channel="floracing-1">
     <title lang="en">ASCS National Tour Knoxville - Race</title>
     <desc lang="en">Live streaming of ASCS National Tour Knoxville - Race on RoxieStreams.</desc>
   </programme>
