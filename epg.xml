@@ -120,6 +120,10 @@
     <display-name lang="en">Roxie Soccer 8</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-9">
+    <display-name lang="en">Roxie Soccer 9</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -147,6 +151,10 @@
   <programme start="20260808010000 +0000" stop="20260808040000 +0000" channel="soccer-streams-7">
     <title lang="en">Tigres vs Minnesota</title>
     <desc lang="en">Live streaming of Tigres vs Minnesota on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260808020000 +0000" stop="20260808050000 +0000" channel="soccer-streams-9">
+    <title lang="en">Canada U20 vs Mexico U20</title>
+    <desc lang="en">Live streaming of Canada U20 vs Mexico U20 on RoxieStreams.</desc>
   </programme>
   <programme start="20260808023000 +0000" stop="20260808053000 +0000" channel="soccer-streams-8">
     <title lang="en">Vancouver Whitecaps vs Juarez</title>
