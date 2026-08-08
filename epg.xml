@@ -96,6 +96,10 @@
     <display-name lang="en">Roxie PPV 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ppv-streams-4">
+    <display-name lang="en">Roxie PPV 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-10">
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -371,6 +375,10 @@
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260808083000 +0000" stop="20260808113000 +0000" channel="ppv-streams-4">
+    <title lang="en">ONE Samurai 2: Noiri vs. Liu 2</title>
+    <desc lang="en">Live streaming of ONE Samurai 2: Noiri vs. Liu 2 on RoxieStreams.</desc>
   </programme>
   <programme start="20260808180000 +0000" stop="20260808210000 +0000" channel="ppv-streams-1">
     <title lang="en">Zuffa Boxing 10: McKenna vs. Oliha</title>
