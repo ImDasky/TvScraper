@@ -114,7 +114,7 @@ https://admin2.formaturamaxi.com.br/tdp.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-11" tvg-name="Roxie Soccer 11" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/mls5.m3u8
+https://admin2.formaturamaxi.com.br/fana2pt.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-12" tvg-name="Roxie Soccer 12" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -126,7 +126,7 @@ https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-14" tvg-name="Roxie Soccer 14" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fana.m3u8
+https://admin2.formaturamaxi.com.br/fana3es.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-15" tvg-name="Roxie Soccer 15" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -162,7 +162,7 @@ https://admin2.formaturamaxi.com.br/fana4.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-22" tvg-name="Roxie Soccer 22" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/canal5.m3u8
+https://admin2.formaturamaxi.com.br/fanaes.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-23" tvg-name="Roxie Soccer 23" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
