@@ -100,6 +100,10 @@
     <display-name lang="en">Roxie PPV 4</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-1">
+    <display-name lang="en">Roxie Soccer 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-10">
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -196,9 +200,17 @@
     <display-name lang="en">Roxie UFC</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260808110000 +0000" stop="20260808140000 +0000" channel="soccer-streams-2">
-    <title lang="en">Juventus vs Inter Milan</title>
-    <desc lang="en">Live streaming of Juventus vs Inter Milan on RoxieStreams.</desc>
+  <programme start="20260808120000 +0000" stop="20260808150000 +0000" channel="soccer-streams-3">
+    <title lang="en">Chelsea vs Milan</title>
+    <desc lang="en">Live streaming of Chelsea vs Milan on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260808130000 +0000" stop="20260808160000 +0000" channel="soccer-streams-1">
+    <title lang="en">Leeds vs Leipzig</title>
+    <desc lang="en">Live streaming of Leeds vs Leipzig on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260808133000 +0000" stop="20260808163000 +0000" channel="soccer-streams-4">
+    <title lang="en">Bayer Leverkusen vs Sevilla</title>
+    <desc lang="en">Live streaming of Bayer Leverkusen vs Sevilla on RoxieStreams.</desc>
   </programme>
   <programme start="20260808140000 +0000" stop="20260808170000 +0000" channel="soccer-streams-2">
     <title lang="en">Brighton vs Roma</title>
@@ -215,14 +227,6 @@
   <programme start="20260808200000 +0000" stop="20260808230000 +0000" channel="soccer-streams-2">
     <title lang="en">Udinese vs Barcelona</title>
     <desc lang="en">Live streaming of Udinese vs Barcelona on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260808120000 +0000" stop="20260808150000 +0000" channel="soccer-streams-3">
-    <title lang="en">Chelsea vs Milan</title>
-    <desc lang="en">Live streaming of Chelsea vs Milan on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260808133000 +0000" stop="20260808163000 +0000" channel="soccer-streams-4">
-    <title lang="en">Bayer Leverkusen vs Sevilla</title>
-    <desc lang="en">Live streaming of Bayer Leverkusen vs Sevilla on RoxieStreams.</desc>
   </programme>
   <programme start="20260808140000 +0000" stop="20260808170000 +0000" channel="soccer-streams-5">
     <title lang="en">Tottenham vs Getafe</title>
