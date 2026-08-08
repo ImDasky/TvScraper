@@ -236,13 +236,13 @@
     <title lang="en">PFL Charlotte: Battle vs. Rosta</title>
     <desc lang="en">Live streaming of PFL Charlotte: Battle vs. Rosta on RoxieStreams.</desc>
   </programme>
-  <programme start="20260808000000 +0000" stop="20260808030000 +0000" channel="ppv-streams-2">
-    <title lang="en">BoxFest XIX</title>
-    <desc lang="en">Live streaming of BoxFest XIX on RoxieStreams.</desc>
-  </programme>
   <programme start="20260808000000 +0000" stop="20260808030000 +0000" channel="wwe-streams">
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260808020000 +0000" stop="20260808050000 +0000" channel="ppv-streams-2">
+    <title lang="en">BoxFest XIX</title>
+    <desc lang="en">Live streaming of BoxFest XIX on RoxieStreams.</desc>
   </programme>
   <programme start="20260807104500 +0000" stop="20260807134500 +0000" channel="motogp">
     <title lang="en">MotoGP - Coverage</title>
