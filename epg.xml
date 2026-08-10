@@ -60,10 +60,26 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-2">
+    <display-name lang="en">Roxie Soccer 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-3">
+    <display-name lang="en">Roxie Soccer 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <programme start="20260810220000 +0000" stop="20260811010000 +0000" channel="soccer-streams-2">
+    <title lang="en">Banfield vs Belgrano</title>
+    <desc lang="en">Live streaming of Banfield vs Belgrano on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260811001500 +0000" stop="20260811031500 +0000" channel="soccer-streams-3">
+    <title lang="en">Unión Santa Fe vs Central Córdoba SdE</title>
+    <desc lang="en">Live streaming of Unión Santa Fe vs Central Córdoba SdE on RoxieStreams.</desc>
+  </programme>
   <programme start="20260810230700 +0000" stop="20260811020700 +0000" channel="mlb-streams-1">
     <title lang="en">Boston Red Sox vs Toronto Blue Jays</title>
     <desc lang="en">Live streaming of Boston Red Sox vs Toronto Blue Jays on RoxieStreams.</desc>
