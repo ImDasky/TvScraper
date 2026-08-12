@@ -152,13 +152,9 @@
     <title lang="en">PSG vs Aston Villa</title>
     <desc lang="en">Live streaming of PSG vs Aston Villa on RoxieStreams.</desc>
   </programme>
-  <programme start="20260812220000 +0000" stop="20260813003000 +0000" channel="soccer-streams-8">
+  <programme start="20260812220000 +0000" stop="20260813010000 +0000" channel="soccer-streams-8">
     <title lang="en">Palmeiras vs Cerro Porteño</title>
     <desc lang="en">Live streaming of Palmeiras vs Cerro Porteño on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260813003000 +0000" stop="20260813033000 +0000" channel="soccer-streams-8">
-    <title lang="en">River Plate vs Santa Fe</title>
-    <desc lang="en">Live streaming of River Plate vs Santa Fe on RoxieStreams.</desc>
   </programme>
   <programme start="20260812220000 +0000" stop="20260813010000 +0000" channel="soccer-streams-9">
     <title lang="en">Platense vs Coquimbo Unido</title>
