@@ -4,6 +4,10 @@
     <display-name lang="en">Roxie Aew</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="floracing-1">
+    <display-name lang="en">Roxie Floracing-1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -62,10 +66,6 @@
   </channel>
   <channel id="mlb-streams-9">
     <display-name lang="en">Roxie MLB 9</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="motogp">
-    <display-name lang="en">Roxie MotoGP</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nhl-streams-1">
@@ -264,7 +264,7 @@
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
-  <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="motogp">
+  <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="floracing-1">
     <title lang="en">World of Outlaws Sprint Cars - Qualifying</title>
     <desc lang="en">Live streaming of World of Outlaws Sprint Cars - Qualifying on RoxieStreams.</desc>
   </programme>
