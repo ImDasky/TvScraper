@@ -84,6 +84,10 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ppv-streams-2">
+    <display-name lang="en">Roxie PPV 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-10">
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -251,6 +255,10 @@
   <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="aew">
     <title lang="en">AEW</title>
     <desc lang="en">Live streaming of AEW on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260811230000 +0000" stop="20260812020000 +0000" channel="ppv-streams-2">
+    <title lang="en">Dana White Contender Series</title>
+    <desc lang="en">Live streaming of Dana White Contender Series on RoxieStreams.</desc>
   </programme>
   <programme start="20260809084000 +0000" stop="20260809114000 +0000" channel="motogp">
     <title lang="en">MotoGP - Coverage</title>
