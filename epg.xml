@@ -72,6 +72,10 @@
     <display-name lang="en">Roxie Soccer 11</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-12">
+    <display-name lang="en">Roxie Soccer 12</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -123,6 +127,10 @@
   <programme start="20260814003000 +0000" stop="20260814033000 +0000" channel="soccer-streams-3">
     <title lang="en">Cienciano vs Botafogo</title>
     <desc lang="en">Live streaming of Cienciano vs Botafogo on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260813220000 +0000" stop="20260814010000 +0000" channel="soccer-streams-12">
+    <title lang="en">Mirassol vs LDU Quito</title>
+    <desc lang="en">Live streaming of Mirassol vs LDU Quito on RoxieStreams.</desc>
   </programme>
   <programme start="20260813220000 +0000" stop="20260814010000 +0000" channel="soccer-streams-4">
     <title lang="en">Vasco Gama vs Olimpia</title>
