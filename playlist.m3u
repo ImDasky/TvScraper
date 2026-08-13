@@ -58,11 +58,11 @@ https://admin2.formaturamaxi.com.br/nfl3.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-4" tvg-name="Roxie NFL 4" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nfl.m3u8
+https://admin2.formaturamaxi.com.br/nfl4.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-5" tvg-name="Roxie NFL 5" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/nfl5.m3u8
+https://admin2.formaturamaxi.com.br/nfl5.m3u8
 #EXTINF:-1 tvg-id="nhl-streams-1" tvg-name="Roxie NHL 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NHL",Roxie NHL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -102,11 +102,11 @@ https://admin2.formaturamaxi.com.br/mls2.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-7" tvg-name="Roxie Soccer 7" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/cbssn.m3u8
+https://admin2.formaturamaxi.com.br/mls3.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-8" tvg-name="Roxie Soccer 8" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/beines.m3u8
+https://admin2.formaturamaxi.com.br/cor.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-9" tvg-name="Roxie Soccer 9" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
