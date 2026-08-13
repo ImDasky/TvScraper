@@ -68,6 +68,10 @@
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-11">
+    <display-name lang="en">Roxie Soccer 11</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -104,6 +108,10 @@
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <programme start="20260813180000 +0000" stop="20260813210000 +0000" channel="soccer-streams-11">
+    <title lang="en">Al Shabab vs Al Quadisiya</title>
+    <desc lang="en">Live streaming of Al Shabab vs Al Quadisiya on RoxieStreams.</desc>
+  </programme>
   <programme start="20260813184500 +0000" stop="20260813214500 +0000" channel="soccer-streams-2">
     <title lang="en">Shelbourne vs Ajax</title>
     <desc lang="en">Live streaming of Shelbourne vs Ajax on RoxieStreams.</desc>
