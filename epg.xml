@@ -44,6 +44,22 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="nfl-streams-2">
+    <display-name lang="en">Roxie NFL 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="nfl-streams-3">
+    <display-name lang="en">Roxie NFL 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="nfl-streams-4">
+    <display-name lang="en">Roxie NFL 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="nfl-streams-5">
+    <display-name lang="en">Roxie NFL 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -164,6 +180,26 @@
     <title lang="en">Milwaukee Brewers vs Los Angeles Dodgers</title>
     <desc lang="en">Live streaming of Milwaukee Brewers vs Los Angeles Dodgers on RoxieStreams.</desc>
   </programme>
+  <programme start="20260813230000 +0000" stop="20260814010000 +0000" channel="nfl-streams-2">
+    <title lang="en">Green Bay Packers vs Pittsburgh Steelers</title>
+    <desc lang="en">Live streaming of Green Bay Packers vs Pittsburgh Steelers on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260814010000 +0000" stop="20260814040000 +0000" channel="nfl-streams-2">
+    <title lang="en">Tennessee Titans vs San Francisco 49ers</title>
+    <desc lang="en">Live streaming of Tennessee Titans vs San Francisco 49ers on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260813233000 +0000" stop="20260814023000 +0000" channel="nfl-streams-3">
+    <title lang="en">Indianapolis Colts vs New England Patriots</title>
+    <desc lang="en">Live streaming of Indianapolis Colts vs New England Patriots on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260814000000 +0000" stop="20260814030000 +0000" channel="nfl-streams-4">
+    <title lang="en">Arizona Cardinals vs Las Vegas Raiders</title>
+    <desc lang="en">Live streaming of Arizona Cardinals vs Las Vegas Raiders on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260814000000 +0000" stop="20260814030000 +0000" channel="nfl-streams-5">
+    <title lang="en">Los Angeles Rams vs Houston Texans</title>
+    <desc lang="en">Live streaming of Los Angeles Rams vs Houston Texans on RoxieStreams.</desc>
+  </programme>
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
@@ -176,7 +212,7 @@
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
-  <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="floracing-1">
+  <programme start="20260814000000 +0000" stop="20260814030000 +0000" channel="floracing-1">
     <title lang="en">World of Outlaws Sprint Cars - Qualifying</title>
     <desc lang="en">Live streaming of World of Outlaws Sprint Cars - Qualifying on RoxieStreams.</desc>
   </programme>
