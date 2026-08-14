@@ -60,6 +60,10 @@
     <display-name lang="en">Roxie NFL 5</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="nfl-streams-6">
+    <display-name lang="en">Roxie NFL 6</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -196,13 +200,9 @@
     <title lang="en">Milwaukee Brewers vs Los Angeles Dodgers</title>
     <desc lang="en">Live streaming of Milwaukee Brewers vs Los Angeles Dodgers on RoxieStreams.</desc>
   </programme>
-  <programme start="20260813230000 +0000" stop="20260814010000 +0000" channel="nfl-streams-2">
+  <programme start="20260813230000 +0000" stop="20260814020000 +0000" channel="nfl-streams-2">
     <title lang="en">Green Bay Packers vs Pittsburgh Steelers</title>
     <desc lang="en">Live streaming of Green Bay Packers vs Pittsburgh Steelers on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260814010000 +0000" stop="20260814040000 +0000" channel="nfl-streams-2">
-    <title lang="en">Tennessee Titans vs San Francisco 49ers</title>
-    <desc lang="en">Live streaming of Tennessee Titans vs San Francisco 49ers on RoxieStreams.</desc>
   </programme>
   <programme start="20260813233000 +0000" stop="20260814023000 +0000" channel="nfl-streams-3">
     <title lang="en">Indianapolis Colts vs New England Patriots</title>
@@ -213,8 +213,12 @@
     <desc lang="en">Live streaming of Arizona Cardinals vs Las Vegas Raiders on RoxieStreams.</desc>
   </programme>
   <programme start="20260814000000 +0000" stop="20260814030000 +0000" channel="nfl-streams-5">
-    <title lang="en">Los Angeles Rams vs Houston Texans</title>
-    <desc lang="en">Live streaming of Los Angeles Rams vs Houston Texans on RoxieStreams.</desc>
+    <title lang="en">Los Angeles Chargers vs Houston Texans</title>
+    <desc lang="en">Live streaming of Los Angeles Chargers vs Houston Texans on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260814010000 +0000" stop="20260814040000 +0000" channel="nfl-streams-6">
+    <title lang="en">Tennessee Titans vs San Francisco 49ers</title>
+    <desc lang="en">Live streaming of Tennessee Titans vs San Francisco 49ers on RoxieStreams.</desc>
   </programme>
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
