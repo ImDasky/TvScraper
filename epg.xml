@@ -100,6 +100,10 @@
     <display-name lang="en">Roxie Soccer 6</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-7">
+    <display-name lang="en">Roxie Soccer 7</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -123,6 +127,10 @@
   <programme start="20260814223000 +0000" stop="20260815013000 +0000" channel="soccer-streams-6">
     <title lang="en">São Bernardo vs Botafogo SP</title>
     <desc lang="en">Live streaming of São Bernardo vs Botafogo SP on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260815000000 +0000" stop="20260815030000 +0000" channel="soccer-streams-7">
+    <title lang="en">Correcaminos UAT vs Tapatío</title>
+    <desc lang="en">Live streaming of Correcaminos UAT vs Tapatío on RoxieStreams.</desc>
   </programme>
   <programme start="20260814182000 +0000" stop="20260814212000 +0000" channel="mlb-streams-1">
     <title lang="en">St. Louis Cardinals vs Chicago Cubs</title>
