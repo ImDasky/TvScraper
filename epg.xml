@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
-  <channel id="aew">
-    <display-name lang="en">Roxie Aew</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="floracing-1">
-    <display-name lang="en">Roxie Floracing-1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -64,8 +56,8 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="nfl-streams-1">
-    <display-name lang="en">Roxie NFL 1</display-name>
+  <channel id="nascar">
+    <display-name lang="en">Roxie NASCAR</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nfl-streams-2">
@@ -78,6 +70,14 @@
   </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-1">
+    <display-name lang="en">Roxie PPV 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-2">
+    <display-name lang="en">Roxie PPV 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-2">
@@ -104,17 +104,13 @@
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260814160000 +0000" stop="20260814184500 +0000" channel="soccer-streams-2">
-    <title lang="en">Parma vs Catania</title>
-    <desc lang="en">Live streaming of Parma vs Catania on RoxieStreams.</desc>
+  <programme start="20260814180000 +0000" stop="20260814210000 +0000" channel="soccer-streams-3">
+    <title lang="en">Al Hilal vs Al Faisaly</title>
+    <desc lang="en">Live streaming of Al Hilal vs Al Faisaly on RoxieStreams.</desc>
   </programme>
   <programme start="20260814184500 +0000" stop="20260814214500 +0000" channel="soccer-streams-2">
     <title lang="en">Monza vs Avellino</title>
     <desc lang="en">Live streaming of Monza vs Avellino on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260814180000 +0000" stop="20260814210000 +0000" channel="soccer-streams-3">
-    <title lang="en">Al Hilal vs Al Faisaly</title>
-    <desc lang="en">Live streaming of Al Hilal vs Al Faisaly on RoxieStreams.</desc>
   </programme>
   <programme start="20260814190000 +0000" stop="20260814220000 +0000" channel="soccer-streams-4">
     <title lang="en">Wolves vs Blackburn Rovers</title>
@@ -184,10 +180,6 @@
     <title lang="en">Colorado Rockies vs San Francisco Giants</title>
     <desc lang="en">Live streaming of Colorado Rockies vs San Francisco Giants on RoxieStreams.</desc>
   </programme>
-  <programme start="20260814230000 +0000" stop="20260815020000 +0000" channel="nfl-streams-1">
-    <title lang="en">Denver Broncos vs Atlanta Falcons</title>
-    <desc lang="en">Live streaming of Denver Broncos vs Atlanta Falcons on RoxieStreams.</desc>
-  </programme>
   <programme start="20260814230000 +0000" stop="20260815020000 +0000" channel="nfl-streams-2">
     <title lang="en">Tampa Bay Buccaneers vs New York</title>
     <desc lang="en">Live streaming of Tampa Bay Buccaneers vs New York on RoxieStreams.</desc>
@@ -200,16 +192,24 @@
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
   </programme>
-  <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="aew">
-    <title lang="en">AEW</title>
-    <desc lang="en">Live streaming of AEW on RoxieStreams.</desc>
+  <programme start="20260814223000 +0000" stop="20260815013000 +0000" channel="ppv-streams-1">
+    <title lang="en">Fury FC 123: Freeman vs. Johns</title>
+    <desc lang="en">Live streaming of Fury FC 123: Freeman vs. Johns on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260814230000 +0000" stop="20260815020000 +0000" channel="ppv-streams-2">
+    <title lang="en">CFFC 159: Bobe vs. Isah</title>
+    <desc lang="en">Live streaming of CFFC 159: Bobe vs. Isah on RoxieStreams.</desc>
   </programme>
   <programme start="20260815000000 +0000" stop="20260815030000 +0000" channel="wwe-streams">
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
   </programme>
-  <programme start="20260814000000 +0000" stop="20260814030000 +0000" channel="floracing-1">
-    <title lang="en">World of Outlaws Sprint Cars - Qualifying</title>
-    <desc lang="en">Live streaming of World of Outlaws Sprint Cars - Qualifying on RoxieStreams.</desc>
+  <programme start="20260814170000 +0000" stop="20260814193500 +0000" channel="nascar">
+    <title lang="en">NASCAR Craftsman Truck Series - Coverage</title>
+    <desc lang="en">Live streaming of NASCAR Craftsman Truck Series - Coverage on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260814193500 +0000" stop="20260814223500 +0000" channel="nascar">
+    <title lang="en">Indycar Series - Free Practice</title>
+    <desc lang="en">Live streaming of Indycar Series - Free Practice on RoxieStreams.</desc>
   </programme>
 </tv>
