@@ -424,6 +424,10 @@
     <title lang="en">UFC 330: Makhachev vs. Machado Garry</title>
     <desc lang="en">Live streaming of UFC 330: Makhachev vs. Machado Garry on RoxieStreams.</desc>
   </programme>
+  <programme start="20260816000000 +0000" stop="20260816030000 +0000" channel="ppv-streams-2">
+    <title lang="en">Redneck Brawl 14</title>
+    <desc lang="en">Live streaming of Redneck Brawl 14 on RoxieStreams.</desc>
+  </programme>
   <programme start="20260816003000 +0000" stop="20260816033000 +0000" channel="ppv-streams-1">
     <title lang="en">SHIELDS VS SCOTT</title>
     <desc lang="en">Live streaming of SHIELDS VS SCOTT on RoxieStreams.</desc>
@@ -431,10 +435,6 @@
   <programme start="20260818230000 +0000" stop="20260819020000 +0000" channel="ppv-streams-1">
     <title lang="en">DWCS (Fazil vs Brito)</title>
     <desc lang="en">Live streaming of DWCS (Fazil vs Brito) on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816030000 +0000" channel="ppv-streams-2">
-    <title lang="en">Redneck Brawl 14</title>
-    <desc lang="en">Live streaming of Redneck Brawl 14 on RoxieStreams.</desc>
   </programme>
   <programme start="20260815140000 +0000" stop="20260815170000 +0000" channel="indycar">
     <title lang="en">INDYCAR - Coverage</title>
