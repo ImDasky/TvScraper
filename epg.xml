@@ -176,6 +176,18 @@
     <display-name lang="en">Roxie Soccer 24</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-25">
+    <display-name lang="en">Roxie Soccer 25</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-26">
+    <display-name lang="en">Roxie Soccer 26</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-27">
+    <display-name lang="en">Roxie Soccer 27</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-4">
     <display-name lang="en">Roxie Soccer 4</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -264,6 +276,10 @@
     <title lang="en">Sheffield United vs Birmingham City</title>
     <desc lang="en">Live streaming of Sheffield United vs Birmingham City on RoxieStreams.</desc>
   </programme>
+  <programme start="20260815170000 +0000" stop="20260815200000 +0000" channel="soccer-streams-25">
+    <title lang="en">Real Oviedo vs Granada CF</title>
+    <desc lang="en">Live streaming of Real Oviedo vs Granada CF on RoxieStreams.</desc>
+  </programme>
   <programme start="20260815173000 +0000" stop="20260815203000 +0000" channel="soccer-streams-15">
     <title lang="en">Inter Milan vs Real Betis</title>
     <desc lang="en">Live streaming of Inter Milan vs Real Betis on RoxieStreams.</desc>
@@ -288,17 +304,9 @@
     <title lang="en">Athletico-PR vs Bragantino</title>
     <desc lang="en">Live streaming of Athletico-PR vs Bragantino on RoxieStreams.</desc>
   </programme>
-  <programme start="20260815230000 +0000" stop="20260816011000 +0000" channel="soccer-streams-20">
+  <programme start="20260815230000 +0000" stop="20260816020000 +0000" channel="soccer-streams-20">
     <title lang="en">Atlante vs Toluca</title>
     <desc lang="en">Live streaming of Atlante vs Toluca on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816011000 +0000" stop="20260816031000 +0000" channel="soccer-streams-20">
-    <title lang="en">Monterrey vs Juarez</title>
-    <desc lang="en">Live streaming of Monterrey vs Juarez on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816031000 +0000" stop="20260816061000 +0000" channel="soccer-streams-20">
-    <title lang="en">Atlas vs Tigres</title>
-    <desc lang="en">Live streaming of Atlas vs Tigres on RoxieStreams.</desc>
   </programme>
   <programme start="20260815233000 +0000" stop="20260816023000 +0000" channel="soccer-streams-21">
     <title lang="en">CF Montreal vs DC United</title>
@@ -315,6 +323,14 @@
   <programme start="20260816003000 +0000" stop="20260816033000 +0000" channel="soccer-streams-24">
     <title lang="en">Nashville SC vs Inter Miami</title>
     <desc lang="en">Live streaming of Nashville SC vs Inter Miami on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260816011000 +0000" stop="20260816041000 +0000" channel="soccer-streams-26">
+    <title lang="en">Monterrey vs Juarez</title>
+    <desc lang="en">Live streaming of Monterrey vs Juarez on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260816031000 +0000" stop="20260816061000 +0000" channel="soccer-streams-27">
+    <title lang="en">Atlas vs Tigres</title>
+    <desc lang="en">Live streaming of Atlas vs Tigres on RoxieStreams.</desc>
   </programme>
   <programme start="20260815171000 +0000" stop="20260815201000 +0000" channel="mlb-streams-1">
     <title lang="en">Chicago White Sox vs Detroit Tigers</title>
