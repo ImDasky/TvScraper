@@ -74,7 +74,7 @@ https://admin2.formaturamaxi.com.br/indycar.m3u8
 #EXTINF:-1 tvg-id="nascar" tvg-name="Roxie NASCAR" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie NASCAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/fs2.m3u8
+https://goated-manifest.b-cdn.net/out/v2/91799e2f869b9fec1892e245a080cbff/index.m3u8
 #EXTINF:-1 tvg-id="supercross" tvg-name="Roxie Supercross" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Supercross
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
