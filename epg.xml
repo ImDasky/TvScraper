@@ -16,22 +16,6 @@
     <display-name lang="en">Roxie MLB 11</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="mlb-streams-12">
-    <display-name lang="en">Roxie MLB 12</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-13">
-    <display-name lang="en">Roxie MLB 13</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-14">
-    <display-name lang="en">Roxie MLB 14</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-15">
-    <display-name lang="en">Roxie MLB 15</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="mlb-streams-2">
     <display-name lang="en">Roxie MLB 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -172,65 +156,49 @@
     <title lang="en">Pachuca vs Puebla</title>
     <desc lang="en">Live streaming of Pachuca vs Puebla on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816161500 +0000" stop="20260816191500 +0000" channel="mlb-streams-1">
+  <programme start="20260817174000 +0000" stop="20260817204000 +0000" channel="mlb-streams-1">
+    <title lang="en">St. Louis Cardinals vs Cincinnati Reds</title>
+    <desc lang="en">Live streaming of St. Louis Cardinals vs Cincinnati Reds on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260817224000 +0000" stop="20260818014000 +0000" channel="mlb-streams-2">
+    <title lang="en">St. Louis Cardinals vs Cincinnati Reds</title>
+    <desc lang="en">Live streaming of St. Louis Cardinals vs Cincinnati Reds on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260817220500 +0000" stop="20260818010500 +0000" channel="mlb-streams-3">
     <title lang="en">Baltimore Orioles vs Tampa Bay Rays</title>
     <desc lang="en">Live streaming of Baltimore Orioles vs Tampa Bay Rays on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816173500 +0000" stop="20260816203500 +0000" channel="mlb-streams-2">
-    <title lang="en">Boston Red Sox vs Pittsburgh Pirates</title>
-    <desc lang="en">Live streaming of Boston Red Sox vs Pittsburgh Pirates on RoxieStreams.</desc>
+  <programme start="20260817224000 +0000" stop="20260818014000 +0000" channel="mlb-streams-4">
+    <title lang="en">Miami Marlins vs Philadelphia Phillies</title>
+    <desc lang="en">Live streaming of Miami Marlins vs Philadelphia Phillies on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816173500 +0000" stop="20260816203500 +0000" channel="mlb-streams-3">
-    <title lang="en">Arizona Diamondbacks vs Atlanta Braves</title>
-    <desc lang="en">Live streaming of Arizona Diamondbacks vs Atlanta Braves on RoxieStreams.</desc>
+  <programme start="20260817230500 +0000" stop="20260818020500 +0000" channel="mlb-streams-5">
+    <title lang="en">Detroit Tigers vs Pittsburgh Pirates</title>
+    <desc lang="en">Live streaming of Detroit Tigers vs Pittsburgh Pirates on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816173700 +0000" stop="20260816203700 +0000" channel="mlb-streams-4">
-    <title lang="en">New York Yankees vs Toronto Blue Jays</title>
-    <desc lang="en">Live streaming of New York Yankees vs Toronto Blue Jays on RoxieStreams.</desc>
+  <programme start="20260817231000 +0000" stop="20260818021000 +0000" channel="mlb-streams-6">
+    <title lang="en">Arizona Diamondbacks vs Boston Red Sox</title>
+    <desc lang="en">Live streaming of Arizona Diamondbacks vs Boston Red Sox on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816174000 +0000" stop="20260816204000 +0000" channel="mlb-streams-5">
-    <title lang="en">Washington Nationals vs New York Mets</title>
-    <desc lang="en">Live streaming of Washington Nationals vs New York Mets on RoxieStreams.</desc>
+  <programme start="20260817231000 +0000" stop="20260818021000 +0000" channel="mlb-streams-7">
+    <title lang="en">San Diego Padres vs New York Mets</title>
+    <desc lang="en">Live streaming of San Diego Padres vs New York Mets on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816174000 +0000" stop="20260816204000 +0000" channel="mlb-streams-6">
-    <title lang="en">San Diego Padres vs Cleveland Guardians</title>
-    <desc lang="en">Live streaming of San Diego Padres vs Cleveland Guardians on RoxieStreams.</desc>
+  <programme start="20260817234000 +0000" stop="20260818024000 +0000" channel="mlb-streams-8">
+    <title lang="en">Athletics vs Kansas City Royals</title>
+    <desc lang="en">Live streaming of Athletics vs Kansas City Royals on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816174000 +0000" stop="20260816204000 +0000" channel="mlb-streams-7">
-    <title lang="en">Chicago White Sox vs Detroit Tigers</title>
-    <desc lang="en">Live streaming of Chicago White Sox vs Detroit Tigers on RoxieStreams.</desc>
+  <programme start="20260817234000 +0000" stop="20260818024000 +0000" channel="mlb-streams-9">
+    <title lang="en">Atlanta Braves vs Minnesota Twins</title>
+    <desc lang="en">Live streaming of Atlanta Braves vs Minnesota Twins on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816174000 +0000" stop="20260816204000 +0000" channel="mlb-streams-8">
-    <title lang="en">Miami Marlins vs Cincinnati Reds</title>
-    <desc lang="en">Live streaming of Miami Marlins vs Cincinnati Reds on RoxieStreams.</desc>
+  <programme start="20260818000500 +0000" stop="20260818030500 +0000" channel="mlb-streams-10">
+    <title lang="en">Chicago White Sox vs Chicago Cubs</title>
+    <desc lang="en">Live streaming of Chicago White Sox vs Chicago Cubs on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816181000 +0000" stop="20260816211000 +0000" channel="mlb-streams-9">
-    <title lang="en">Philadelphia Phillies vs Minnesota Twins</title>
-    <desc lang="en">Live streaming of Philadelphia Phillies vs Minnesota Twins on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816191500 +0000" stop="20260816221500 +0000" channel="mlb-streams-10">
-    <title lang="en">St. Louis Cardinals vs Chicago Cubs</title>
-    <desc lang="en">Live streaming of St. Louis Cardinals vs Chicago Cubs on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816200500 +0000" stop="20260816230500 +0000" channel="mlb-streams-11">
-    <title lang="en">Colorado Rockies vs San Francisco Giants</title>
-    <desc lang="en">Live streaming of Colorado Rockies vs San Francisco Giants on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816200500 +0000" stop="20260816230500 +0000" channel="mlb-streams-12">
-    <title lang="en">Texas Rangers vs Athletics</title>
-    <desc lang="en">Live streaming of Texas Rangers vs Athletics on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816200700 +0000" stop="20260816230700 +0000" channel="mlb-streams-13">
-    <title lang="en">Kansas City Royals vs Los Angeles Angels</title>
-    <desc lang="en">Live streaming of Kansas City Royals vs Los Angeles Angels on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816201000 +0000" stop="20260816231000 +0000" channel="mlb-streams-14">
-    <title lang="en">Milwaukee Brewers vs Los Angeles Dodgers</title>
-    <desc lang="en">Live streaming of Milwaukee Brewers vs Los Angeles Dodgers on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816232000 +0000" stop="20260817022000 +0000" channel="mlb-streams-15">
-    <title lang="en">Seattle Mariners vs Houston Astros</title>
-    <desc lang="en">Live streaming of Seattle Mariners vs Houston Astros on RoxieStreams.</desc>
+  <programme start="20260818004000 +0000" stop="20260818034000 +0000" channel="mlb-streams-11">
+    <title lang="en">Los Angeles Dodgers vs Colorado Rockies</title>
+    <desc lang="en">Live streaming of Los Angeles Dodgers vs Colorado Rockies on RoxieStreams.</desc>
   </programme>
   <programme start="20260815170000 +0000" stop="20260815200000 +0000" channel="nfl-streams-2">
     <title lang="en">Cleveland Browns vs Chicago Bears</title>
