@@ -100,6 +100,18 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-10">
+    <display-name lang="en">Roxie Soccer 10</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-11">
+    <display-name lang="en">Roxie Soccer 11</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-12">
+    <display-name lang="en">Roxie Soccer 12</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -152,6 +164,18 @@
     <title lang="en">Slovan Bratislava vs Celje</title>
     <desc lang="en">Live streaming of Slovan Bratislava vs Celje on RoxieStreams.</desc>
   </programme>
+  <programme start="20260819220000 +0000" stop="20260820010000 +0000" channel="soccer-streams-10">
+    <title lang="en">Coquimbo Unido vs Platense</title>
+    <desc lang="en">Live streaming of Coquimbo Unido vs Platense on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260819220000 +0000" stop="20260820003000 +0000" channel="soccer-streams-11">
+    <title lang="en">Cerro Porteño vs Palmeiras</title>
+    <desc lang="en">Live streaming of Cerro Porteño vs Palmeiras on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260820003000 +0000" stop="20260820033000 +0000" channel="soccer-streams-11">
+    <title lang="en">River Plate vs Santa Fe</title>
+    <desc lang="en">Live streaming of River Plate vs Santa Fe on RoxieStreams.</desc>
+  </programme>
   <programme start="20260819233000 +0000" stop="20260820023000 +0000" channel="soccer-streams-7">
     <title lang="en">Columbus Crew vs CF Montréal</title>
     <desc lang="en">Live streaming of Columbus Crew vs CF Montréal on RoxieStreams.</desc>
@@ -171,6 +195,10 @@
   <programme start="20260820023000 +0000" stop="20260820053000 +0000" channel="soccer-streams-9">
     <title lang="en">LA Galaxy vs SJ Earthquakes</title>
     <desc lang="en">Live streaming of LA Galaxy vs SJ Earthquakes on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260820003000 +0000" stop="20260820033000 +0000" channel="soccer-streams-12">
+    <title lang="en">Flamengo vs Cruzeiro</title>
+    <desc lang="en">Live streaming of Flamengo vs Cruzeiro on RoxieStreams.</desc>
   </programme>
   <programme start="20260819163500 +0000" stop="20260819193500 +0000" channel="mlb-streams-1">
     <title lang="en">Detroit Tigers vs Pittsburgh Pirates</title>
