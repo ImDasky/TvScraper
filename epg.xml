@@ -4,8 +4,8 @@
     <display-name lang="en">Roxie Aew</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="indycar">
-    <display-name lang="en">Roxie Indycar</display-name>
+  <channel id="floracing-1">
+    <display-name lang="en">Roxie Floracing-1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="mlb-streams-1">
@@ -44,32 +44,12 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="mxgp">
-    <display-name lang="en">Roxie Mxgp</display-name>
+  <channel id="nfl-streams-1">
+    <display-name lang="en">Roxie NFL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nfl-streams-2">
     <display-name lang="en">Roxie NFL 2</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nfl-streams-3">
-    <display-name lang="en">Roxie NFL 3</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nfl-streams-4">
-    <display-name lang="en">Roxie NFL 4</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nfl-streams-5">
-    <display-name lang="en">Roxie NFL 5</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nfl-streams-6">
-    <display-name lang="en">Roxie NFL 6</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nfl-streams-7">
-    <display-name lang="en">Roxie NFL 7</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nhl-streams-1">
@@ -172,29 +152,13 @@
     <title lang="en">Los Angeles Angels vs Houston Astros</title>
     <desc lang="en">Live streaming of Los Angeles Angels vs Houston Astros on RoxieStreams.</desc>
   </programme>
-  <programme start="20260815170000 +0000" stop="20260815200000 +0000" channel="nfl-streams-2">
-    <title lang="en">Cleveland Browns vs Chicago Bears</title>
-    <desc lang="en">Live streaming of Cleveland Browns vs Chicago Bears on RoxieStreams.</desc>
+  <programme start="20260821000000 +0000" stop="20260821030000 +0000" channel="nfl-streams-1">
+    <title lang="en">Las Vegas Raiders vs Houston Texans</title>
+    <desc lang="en">Live streaming of Las Vegas Raiders vs Houston Texans on RoxieStreams.</desc>
   </programme>
-  <programme start="20260815170000 +0000" stop="20260815200000 +0000" channel="nfl-streams-3">
-    <title lang="en">Minnesota Vikings vs New York Giants</title>
-    <desc lang="en">Live streaming of Minnesota Vikings vs New York Giants on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815230000 +0000" channel="nfl-streams-4">
-    <title lang="en">Los Angeles Rams vs Kansas City Chiefs</title>
-    <desc lang="en">Live streaming of Los Angeles Rams vs Kansas City Chiefs on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815230000 +0000" channel="nfl-streams-5">
-    <title lang="en">Jacksonville Jaguars vs New Orleans Saints</title>
-    <desc lang="en">Live streaming of Jacksonville Jaguars vs New Orleans Saints on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260815230000 +0000" stop="20260816020000 +0000" channel="nfl-streams-6">
-    <title lang="en">Philadelphia Eagles vs Baltimore Ravens</title>
-    <desc lang="en">Live streaming of Philadelphia Eagles vs Baltimore Ravens on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816030000 +0000" channel="nfl-streams-7">
-    <title lang="en">Dallas Cowboys vs Seattle Seahawks</title>
-    <desc lang="en">Live streaming of Dallas Cowboys vs Seattle Seahawks on RoxieStreams.</desc>
+  <programme start="20260821020000 +0000" stop="20260821050000 +0000" channel="nfl-streams-2">
+    <title lang="en">San Francisco 49ers vs Los Angeles Chargers</title>
+    <desc lang="en">Live streaming of San Francisco 49ers vs Los Angeles Chargers on RoxieStreams.</desc>
   </programme>
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
@@ -204,16 +168,8 @@
     <title lang="en">AEW</title>
     <desc lang="en">Live streaming of AEW on RoxieStreams.</desc>
   </programme>
-  <programme start="20260816111500 +0000" stop="20260816121500 +0000" channel="mxgp">
-    <title lang="en">MXGP (MX2) - Race</title>
-    <desc lang="en">Live streaming of MXGP (MX2) - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816121500 +0000" stop="20260816151500 +0000" channel="mxgp">
-    <title lang="en">MXGP - Race</title>
-    <desc lang="en">Live streaming of MXGP - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260816123000 +0000" stop="20260816153000 +0000" channel="indycar">
-    <title lang="en">Indycar Series - Warmup</title>
-    <desc lang="en">Live streaming of Indycar Series - Warmup on RoxieStreams.</desc>
+  <programme start="20260821004500 +0000" stop="20260821034500 +0000" channel="floracing-1">
+    <title lang="en">Interstate Batteries High Limit - Race</title>
+    <desc lang="en">Live streaming of Interstate Batteries High Limit - Race on RoxieStreams.</desc>
   </programme>
 </tv>
