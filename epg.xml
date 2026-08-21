@@ -56,6 +56,30 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-10">
+    <display-name lang="en">Roxie Soccer 10</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-11">
+    <display-name lang="en">Roxie Soccer 11</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-12">
+    <display-name lang="en">Roxie Soccer 12</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-13">
+    <display-name lang="en">Roxie Soccer 13</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-14">
+    <display-name lang="en">Roxie Soccer 14</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-15">
+    <display-name lang="en">Roxie Soccer 15</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -84,37 +108,65 @@
     <display-name lang="en">Roxie Soccer 8</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <programme start="20260820180000 +0000" stop="20260820210000 +0000" channel="soccer-streams-2">
-    <title lang="en">Al-Fayha vs Al Hilal</title>
-    <desc lang="en">Live streaming of Al-Fayha vs Al Hilal on RoxieStreams.</desc>
+  <channel id="soccer-streams-9">
+    <display-name lang="en">Roxie Soccer 9</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <programme start="20260821170000 +0000" stop="20260821200000 +0000" channel="soccer-streams-2">
+    <title lang="en">FC Cajamarca vs Atlético Grau</title>
+    <desc lang="en">Live streaming of FC Cajamarca vs Atlético Grau on RoxieStreams.</desc>
   </programme>
-  <programme start="20260820183000 +0000" stop="20260820213000 +0000" channel="soccer-streams-3">
-    <title lang="en">Motherwell vs Freiburg</title>
-    <desc lang="en">Live streaming of Motherwell vs Freiburg on RoxieStreams.</desc>
+  <programme start="20260821173000 +0000" stop="20260821203000 +0000" channel="soccer-streams-3">
+    <title lang="en">Aldosivi vs Unión Santa Fe</title>
+    <desc lang="en">Live streaming of Aldosivi vs Unión Santa Fe on RoxieStreams.</desc>
   </programme>
-  <programme start="20260820190000 +0000" stop="20260820220000 +0000" channel="soccer-streams-4">
-    <title lang="en">Rayo Vallecano vs Deportivo Alaves</title>
-    <desc lang="en">Live streaming of Rayo Vallecano vs Deportivo Alaves on RoxieStreams.</desc>
+  <programme start="20260821180000 +0000" stop="20260821210000 +0000" channel="soccer-streams-4">
+    <title lang="en">Al Quadisiya vs Al Ittihad</title>
+    <desc lang="en">Live streaming of Al Quadisiya vs Al Ittihad on RoxieStreams.</desc>
   </programme>
-  <programme start="20260820190000 +0000" stop="20260820220000 +0000" channel="soccer-streams-5">
-    <title lang="en">Sheffield Wednesday vs Bradford</title>
-    <desc lang="en">Live streaming of Sheffield Wednesday vs Bradford on RoxieStreams.</desc>
+  <programme start="20260821184500 +0000" stop="20260821214500 +0000" channel="soccer-streams-5">
+    <title lang="en">Standard Liège vs RAAL La Louvière</title>
+    <desc lang="en">Live streaming of Standard Liège vs RAAL La Louvière on RoxieStreams.</desc>
   </programme>
-  <programme start="20260820220000 +0000" stop="20260821003000 +0000" channel="soccer-streams-6">
-    <title lang="en">Macará vs Santos</title>
-    <desc lang="en">Live streaming of Macará vs Santos on RoxieStreams.</desc>
+  <programme start="20260821184500 +0000" stop="20260821214500 +0000" channel="soccer-streams-6">
+    <title lang="en">Olympique Marseille vs Strasbourg</title>
+    <desc lang="en">Live streaming of Olympique Marseille vs Strasbourg on RoxieStreams.</desc>
   </programme>
-  <programme start="20260821003000 +0000" stop="20260821033000 +0000" channel="soccer-streams-6">
-    <title lang="en">Botafogo vs Cienciano</title>
-    <desc lang="en">Live streaming of Botafogo vs Cienciano on RoxieStreams.</desc>
+  <programme start="20260821184500 +0000" stop="20260821214500 +0000" channel="soccer-streams-7">
+    <title lang="en">BB Erzurumspor vs Galatasaray</title>
+    <desc lang="en">Live streaming of BB Erzurumspor vs Galatasaray on RoxieStreams.</desc>
   </programme>
-  <programme start="20260820220000 +0000" stop="20260821010000 +0000" channel="soccer-streams-7">
-    <title lang="en">Olimpia vs Vasco Gama</title>
-    <desc lang="en">Live streaming of Olimpia vs Vasco Gama on RoxieStreams.</desc>
+  <programme start="20260821190000 +0000" stop="20260821220000 +0000" channel="soccer-streams-8">
+    <title lang="en">Arsenal vs Coventry City</title>
+    <desc lang="en">Live streaming of Arsenal vs Coventry City on RoxieStreams.</desc>
   </programme>
-  <programme start="20260821003000 +0000" stop="20260821033000 +0000" channel="soccer-streams-8">
-    <title lang="en">Corinthians vs Rosario Central</title>
-    <desc lang="en">Live streaming of Corinthians vs Rosario Central on RoxieStreams.</desc>
+  <programme start="20260821190000 +0000" stop="20260821220000 +0000" channel="soccer-streams-9">
+    <title lang="en">Real Betis vs Real Sociedad</title>
+    <desc lang="en">Live streaming of Real Betis vs Real Sociedad on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260821200000 +0000" stop="20260821230000 +0000" channel="soccer-streams-10">
+    <title lang="en">Alianza Atlético vs Sporting Cristal</title>
+    <desc lang="en">Live streaming of Alianza Atlético vs Sporting Cristal on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260821230000 +0000" stop="20260822020000 +0000" channel="soccer-streams-11">
+    <title lang="en">Estudiantes Río Cuarto vs San Lorenzo</title>
+    <desc lang="en">Live streaming of Estudiantes Río Cuarto vs San Lorenzo on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822010000 +0000" stop="20260822040000 +0000" channel="soccer-streams-12">
+    <title lang="en">León vs Monterrey</title>
+    <desc lang="en">Live streaming of León vs Monterrey on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822010000 +0000" stop="20260822040000 +0000" channel="soccer-streams-13">
+    <title lang="en">Tigres UANL vs Atlante</title>
+    <desc lang="en">Live streaming of Tigres UANL vs Atlante on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822030000 +0000" stop="20260822060000 +0000" channel="soccer-streams-14">
+    <title lang="en">Querétaro vs Toluca</title>
+    <desc lang="en">Live streaming of Querétaro vs Toluca on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822030000 +0000" stop="20260822060000 +0000" channel="soccer-streams-15">
+    <title lang="en">Juárez vs América</title>
+    <desc lang="en">Live streaming of Juárez vs América on RoxieStreams.</desc>
   </programme>
   <programme start="20260820164000 +0000" stop="20260820194000 +0000" channel="mlb-streams-1">
     <title lang="en">St. Louis Cardinals vs Cincinnati Reds</title>
