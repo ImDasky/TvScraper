@@ -148,6 +148,10 @@
     <display-name lang="en">Roxie Soccer 23</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-24">
+    <display-name lang="en">Roxie Soccer 24</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-3">
     <display-name lang="en">Roxie Soccer 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -283,6 +287,10 @@
   <programme start="20260822163000 +0000" stop="20260822193000 +0000" channel="soccer-streams-12">
     <title lang="en">Brentford vs Tottenham</title>
     <desc lang="en">Live streaming of Brentford vs Tottenham on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822183000 +0000" stop="20260822213000 +0000" channel="soccer-streams-24">
+    <title lang="en">Olympiakos Piraeus vs Atromitos</title>
+    <desc lang="en">Live streaming of Olympiakos Piraeus vs Atromitos on RoxieStreams.</desc>
   </programme>
   <programme start="20260822190000 +0000" stop="20260822220000 +0000" channel="soccer-streams-16">
     <title lang="en">Fluminense vs Remo</title>
