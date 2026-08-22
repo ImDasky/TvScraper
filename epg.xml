@@ -8,6 +8,10 @@
     <display-name lang="en">Roxie Floracing-1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="indycar">
+    <display-name lang="en">Roxie Indycar</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -66,6 +70,10 @@
   </channel>
   <channel id="mlb-streams-9">
     <display-name lang="en">Roxie MLB 9</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="nascar">
+    <display-name lang="en">Roxie NASCAR</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nfl-streams-1">
@@ -214,6 +222,10 @@
   </channel>
   <channel id="soccer-streams-9">
     <display-name lang="en">Roxie Soccer 9</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="supercross">
+    <display-name lang="en">Roxie Supercross</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="ufc">
@@ -472,11 +484,35 @@
     <title lang="en">ROLLY VS TEOFIMO</title>
     <desc lang="en">Live streaming of ROLLY VS TEOFIMO on RoxieStreams.</desc>
   </programme>
-  <programme start="20260821143000 +0000" stop="20260821173000 +0000" channel="f1">
-    <title lang="en">Formula 1 - Sprint Qualifying</title>
-    <desc lang="en">Live streaming of Formula 1 - Sprint Qualifying on RoxieStreams.</desc>
+  <programme start="20260822100000 +0000" stop="20260822130000 +0000" channel="f1">
+    <title lang="en">Formula 1 - Sprint</title>
+    <desc lang="en">Live streaming of Formula 1 - Sprint on RoxieStreams.</desc>
   </programme>
-  <programme start="20260821231500 +0000" stop="20260822021500 +0000" channel="floracing-1">
+  <programme start="20260822140000 +0000" stop="20260822170000 +0000" channel="f1">
+    <title lang="en">Formula 1 - Qualifying</title>
+    <desc lang="en">Live streaming of Formula 1 - Qualifying on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822130000 +0000" stop="20260822160000 +0000" channel="indycar">
+    <title lang="en">INDYCAR Series - Free Practice</title>
+    <desc lang="en">Live streaming of INDYCAR Series - Free Practice on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822210000 +0000" stop="20260823000000 +0000" channel="indycar">
+    <title lang="en">INDYCAR Series - Qualifying</title>
+    <desc lang="en">Live streaming of INDYCAR Series - Qualifying on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822140000 +0000" stop="20260822170000 +0000" channel="supercross">
+    <title lang="en">AMA Motocross - Qualifying</title>
+    <desc lang="en">Live streaming of AMA Motocross - Qualifying on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822170000 +0000" stop="20260822200000 +0000" channel="supercross">
+    <title lang="en">AMA Motocross - Race</title>
+    <desc lang="en">Live streaming of AMA Motocross - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822175000 +0000" stop="20260822205000 +0000" channel="nascar">
+    <title lang="en">NASCAR Craftsman Truck Series - Race</title>
+    <desc lang="en">Live streaming of NASCAR Craftsman Truck Series - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822231500 +0000" stop="20260823021500 +0000" channel="floracing-1">
     <title lang="en">WoO Sprint Cars - Race</title>
     <desc lang="en">Live streaming of WoO Sprint Cars - Race on RoxieStreams.</desc>
   </programme>
