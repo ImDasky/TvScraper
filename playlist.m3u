@@ -74,11 +74,11 @@ https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="indycar" tvg-name="Roxie Indycar" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Indycar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/indycar.m3u8
+https://admin2.formaturamaxi.com.br/nfl4.m3u8
 #EXTINF:-1 tvg-id="nascar" tvg-name="Roxie NASCAR" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie NASCAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://goated-manifest.b-cdn.net/out/v2/91799e2f869b9fec1892e245a080cbff/index.m3u8
+https://admin2.formaturamaxi.com.br/mlb3.m3u8
 #EXTINF:-1 tvg-id="supercross" tvg-name="Roxie Supercross" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Supercross
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -86,7 +86,7 @@ https://admin2.formaturamaxi.com.br/sx.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-1" tvg-name="Roxie NFL 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nfl.m3u8
+https://admin2.formaturamaxi.com.br/mlb11.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-10" tvg-name="Roxie NFL 10" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -98,7 +98,7 @@ https://admin2.formaturamaxi.com.br/nfl2.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-3" tvg-name="Roxie NFL 3" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/nfl3.m3u8
+https://admin2.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-4" tvg-name="Roxie NFL 4" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -158,15 +158,15 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-13" tvg-name="Roxie Soccer 13" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
+https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-14" tvg-name="Roxie Soccer 14" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/foxplus.m3u8
+https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-15" tvg-name="Roxie Soccer 15" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
+https://tedesco.formaturamaxi.com.br/xtra.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-16" tvg-name="Roxie Soccer 16" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
