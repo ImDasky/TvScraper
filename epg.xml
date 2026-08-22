@@ -196,6 +196,26 @@
     <display-name lang="en">Roxie Soccer 23</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-24">
+    <display-name lang="en">Roxie Soccer 24</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-25">
+    <display-name lang="en">Roxie Soccer 25</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-26">
+    <display-name lang="en">Roxie Soccer 26</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-27">
+    <display-name lang="en">Roxie Soccer 27</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-28">
+    <display-name lang="en">Roxie Soccer 28</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-3">
     <display-name lang="en">Roxie Soccer 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -324,9 +344,21 @@
     <title lang="en">Fluminense vs Remo</title>
     <desc lang="en">Live streaming of Fluminense vs Remo on RoxieStreams.</desc>
   </programme>
+  <programme start="20260822190000 +0000" stop="20260822220000 +0000" channel="soccer-streams-24">
+    <title lang="en">Atlético Tucumán vs Instituto</title>
+    <desc lang="en">Live streaming of Atlético Tucumán vs Instituto on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822190000 +0000" stop="20260822220000 +0000" channel="soccer-streams-25">
+    <title lang="en">Gimnasia La Plata vs Gimnasia Mendoza</title>
+    <desc lang="en">Live streaming of Gimnasia La Plata vs Gimnasia Mendoza on RoxieStreams.</desc>
+  </programme>
   <programme start="20260822213000 +0000" stop="20260823003000 +0000" channel="soccer-streams-17">
     <title lang="en">Internacional vs Atletico Mineiro</title>
     <desc lang="en">Live streaming of Internacional vs Atletico Mineiro on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260822213000 +0000" stop="20260823003000 +0000" channel="soccer-streams-26">
+    <title lang="en">Independiente vs Independiente Rivadavia</title>
+    <desc lang="en">Live streaming of Independiente vs Independiente Rivadavia on RoxieStreams.</desc>
   </programme>
   <programme start="20260822230700 +0000" stop="20260823020700 +0000" channel="soccer-streams-18">
     <title lang="en">Chivas vs Tijuana</title>
@@ -347,6 +379,14 @@
   <programme start="20260823023000 +0000" stop="20260823053000 +0000" channel="soccer-streams-21">
     <title lang="en">SJ Earthquakes vs Minnesota Utd</title>
     <desc lang="en">Live streaming of SJ Earthquakes vs Minnesota Utd on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260823000000 +0000" stop="20260823030000 +0000" channel="soccer-streams-27">
+    <title lang="en">Huracán vs Deportivo Riestra</title>
+    <desc lang="en">Live streaming of Huracán vs Deportivo Riestra on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260823000000 +0000" stop="20260823030000 +0000" channel="soccer-streams-28">
+    <title lang="en">Newell's Old Boys vs Banfield</title>
+    <desc lang="en">Live streaming of Newell's Old Boys vs Banfield on RoxieStreams.</desc>
   </programme>
   <programme start="20260823010000 +0000" stop="20260823040000 +0000" channel="soccer-streams-22">
     <title lang="en">Puebla vs Santos</title>
