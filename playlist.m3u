@@ -102,7 +102,7 @@ https://admin2.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-4" tvg-name="Roxie NFL 4" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nfl2.m3u8
+https://admin2.formaturamaxi.com.br/nfl4.m3u8
 #EXTINF:-1 tvg-id="nfl-streams-5" tvg-name="Roxie NFL 5" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NFL",Roxie NFL 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -130,7 +130,7 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="ppv-streams-1" tvg-name="Roxie PPV 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="PPV",Roxie PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/ppvsat.m3u8
+https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="ppv-streams-2" tvg-name="Roxie PPV 2" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="PPV",Roxie PPV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -170,7 +170,7 @@ https://tedesco.formaturamaxi.com.br/xtra.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-16" tvg-name="Roxie Soccer 16" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://admin2.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="soccer-streams-17" tvg-name="Roxie Soccer 17" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Soccer",Roxie Soccer 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
