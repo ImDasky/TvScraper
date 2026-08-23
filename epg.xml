@@ -1,21 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
-  <channel id="arca">
-    <display-name lang="en">Roxie Arca</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="f1">
-    <display-name lang="en">Roxie F1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="imsa">
-    <display-name lang="en">Roxie Imsa</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="indycar">
-    <display-name lang="en">Roxie Indycar</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -34,14 +18,6 @@
   </channel>
   <channel id="mlb-streams-13">
     <display-name lang="en">Roxie MLB 13</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-14">
-    <display-name lang="en">Roxie MLB 14</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-15">
-    <display-name lang="en">Roxie MLB 15</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="mlb-streams-2">
@@ -74,38 +50,6 @@
   </channel>
   <channel id="mlb-streams-9">
     <display-name lang="en">Roxie MLB 9</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mxgp">
-    <display-name lang="en">Roxie Mxgp</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nascar">
-    <display-name lang="en">Roxie NASCAR</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nfl-streams-1">
-    <display-name lang="en">Roxie NFL 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nhl-streams-1">
-    <display-name lang="en">Roxie NHL 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ppv-streams-1">
-    <display-name lang="en">Roxie PPV 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ppv-streams-2">
-    <display-name lang="en">Roxie PPV 2</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ppv-streams-3">
-    <display-name lang="en">Roxie PPV 3</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ppv-streams-4">
-    <display-name lang="en">Roxie PPV 4</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-1">
@@ -182,10 +126,6 @@
   </channel>
   <channel id="soccer-streams-9">
     <display-name lang="en">Roxie Soccer 9</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ufc">
-    <display-name lang="en">Roxie UFC</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <programme start="20260823130000 +0000" stop="20260823160000 +0000" channel="soccer-streams-2">
@@ -331,77 +271,5 @@
   <programme start="20260823201000 +0000" stop="20260823231000 +0000" channel="mlb-streams-13">
     <title lang="en">Minnesota Twins vs San Diego Padres</title>
     <desc lang="en">Live streaming of Minnesota Twins vs San Diego Padres on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823201500 +0000" stop="20260823231500 +0000" channel="mlb-streams-14">
-    <title lang="en">Cincinnati Reds vs Arizona Diamondbacks</title>
-    <desc lang="en">Live streaming of Cincinnati Reds vs Arizona Diamondbacks on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823231000 +0000" stop="20260824021000 +0000" channel="mlb-streams-15">
-    <title lang="en">Atlanta Braves vs Milwaukee Brewers</title>
-    <desc lang="en">Live streaming of Atlanta Braves vs Milwaukee Brewers on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260824000000 +0000" stop="20260824030000 +0000" channel="nfl-streams-1">
-    <title lang="en">Seattle Seahawks vs Tennessee Titans</title>
-    <desc lang="en">Live streaming of Seattle Seahawks vs Tennessee Titans on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
-    <title lang="en">NHL Draft 2026</title>
-    <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260822170000 +0000" stop="20260822200000 +0000" channel="ppv-streams-1">
-    <title lang="en">Liddard vs. Morello</title>
-    <desc lang="en">Live streaming of Liddard vs. Morello on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260826020000 +0000" channel="ppv-streams-1">
-    <title lang="en">Dana White's Contender Series</title>
-    <desc lang="en">Live streaming of Dana White's Contender Series on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260822210000 +0000" stop="20260823000000 +0000" channel="ufc">
-    <title lang="en">UFC Fight Night: Hernandez vs. Rodrigues</title>
-    <desc lang="en">Live streaming of UFC Fight Night: Hernandez vs. Rodrigues on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260822213000 +0000" stop="20260823003000 +0000" channel="ppv-streams-2">
-    <title lang="en">PFL: Cyborg vs. Vieira</title>
-    <desc lang="en">Live streaming of PFL: Cyborg vs. Vieira on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823000000 +0000" stop="20260823030000 +0000" channel="ppv-streams-3">
-    <title lang="en">RAF 12: Dvalishvili vs. Cejudo 2</title>
-    <desc lang="en">Live streaming of RAF 12: Dvalishvili vs. Cejudo 2 on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823010000 +0000" stop="20260823040000 +0000" channel="ppv-streams-4">
-    <title lang="en">ROLLY VS TEOFIMO</title>
-    <desc lang="en">Live streaming of ROLLY VS TEOFIMO on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823111500 +0000" stop="20260823121500 +0000" channel="mxgp">
-    <title lang="en">MXGP (MX2) - Race</title>
-    <desc lang="en">Live streaming of MXGP (MX2) - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823121500 +0000" stop="20260823151500 +0000" channel="mxgp">
-    <title lang="en">MXGP - Race</title>
-    <desc lang="en">Live streaming of MXGP - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823130000 +0000" stop="20260823160000 +0000" channel="f1">
-    <title lang="en">Formula 1 - Dutch Grand Prix</title>
-    <desc lang="en">Live streaming of Formula 1 - Dutch Grand Prix on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823131500 +0000" stop="20260823161500 +0000" channel="indycar">
-    <title lang="en">INDYCAR Series - Warmup</title>
-    <desc lang="en">Live streaming of INDYCAR Series - Warmup on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823170000 +0000" stop="20260823200000 +0000" channel="indycar">
-    <title lang="en">INDYCAR Series - Freedom 250 Grand Prix</title>
-    <desc lang="en">Live streaming of INDYCAR Series - Freedom 250 Grand Prix on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823161000 +0000" stop="20260823191000 +0000" channel="imsa">
-    <title lang="en">IMSA Weathertech Championship - Race</title>
-    <desc lang="en">Live streaming of IMSA Weathertech Championship - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823180000 +0000" stop="20260823210000 +0000" channel="arca">
-    <title lang="en">ARCA Menards Series - Race</title>
-    <desc lang="en">Live streaming of ARCA Menards Series - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260823193000 +0000" stop="20260823223000 +0000" channel="nascar">
-    <title lang="en">NASCAR Cup Series - Race</title>
-    <desc lang="en">Live streaming of NASCAR Cup Series - Race on RoxieStreams.</desc>
   </programme>
 </tv>
