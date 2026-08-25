@@ -128,10 +128,6 @@
     <display-name lang="en">Roxie Soccer 16</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-17">
-    <display-name lang="en">Roxie Soccer 17</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -188,10 +184,6 @@
     <title lang="en">Sheffield Wednesday vs Wolves</title>
     <desc lang="en">Live streaming of Sheffield Wednesday vs Wolves on RoxieStreams.</desc>
   </programme>
-  <programme start="20260825184500 +0000" stop="20260825214500 +0000" channel="soccer-streams-7">
-    <title lang="en">Cambridge Utd vs Millwall</title>
-    <desc lang="en">Live streaming of Cambridge Utd vs Millwall on RoxieStreams.</desc>
-  </programme>
   <programme start="20260825184500 +0000" stop="20260825214500 +0000" channel="soccer-streams-8">
     <title lang="en">Ipswich Town vs Leicester CIty</title>
     <desc lang="en">Live streaming of Ipswich Town vs Leicester CIty on RoxieStreams.</desc>
@@ -228,7 +220,7 @@
     <title lang="en">Independiente Valle vs Deportes Tolima</title>
     <desc lang="en">Live streaming of Independiente Valle vs Deportes Tolima on RoxieStreams.</desc>
   </programme>
-  <programme start="20260826003000 +0000" stop="20260826033000 +0000" channel="soccer-streams-17">
+  <programme start="20260826003000 +0000" stop="20260826033000 +0000" channel="soccer-streams-7">
     <title lang="en">Monterrey vs Chicago Fire</title>
     <desc lang="en">Live streaming of Monterrey vs Chicago Fire on RoxieStreams.</desc>
   </programme>
