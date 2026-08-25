@@ -128,6 +128,10 @@
     <display-name lang="en">Roxie Soccer 16</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-17">
+    <display-name lang="en">Roxie Soccer 17</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -211,6 +215,10 @@
   <programme start="20260825190000 +0000" stop="20260825220000 +0000" channel="soccer-streams-14">
     <title lang="en">LASK Linz vs Celtic</title>
     <desc lang="en">Live streaming of LASK Linz vs Celtic on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260825190000 +0000" stop="20260825220000 +0000" channel="soccer-streams-17">
+    <title lang="en">Valencia vs Real Betis</title>
+    <desc lang="en">Live streaming of Valencia vs Real Betis on RoxieStreams.</desc>
   </programme>
   <programme start="20260826000000 +0000" stop="20260826030000 +0000" channel="soccer-streams-15">
     <title lang="en">Cruzeiro vs Atletico Mineiro</title>
