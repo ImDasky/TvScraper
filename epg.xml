@@ -84,8 +84,8 @@
     <display-name lang="en">Roxie NASCAR</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="nfl-streams-1">
-    <display-name lang="en">Roxie NFL 1</display-name>
+  <channel id="ncaa-streams-1">
+    <display-name lang="en">Roxie Ncaa 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nhl-streams-1">
@@ -296,9 +296,9 @@
     <title lang="en">Cincinnati Reds vs San Francisco Giants</title>
     <desc lang="en">Live streaming of Cincinnati Reds vs San Francisco Giants on RoxieStreams.</desc>
   </programme>
-  <programme start="20260824000000 +0000" stop="20260824030000 +0000" channel="nfl-streams-1">
-    <title lang="en">Seattle Seahawks vs Tennessee Titans</title>
-    <desc lang="en">Live streaming of Seattle Seahawks vs Tennessee Titans on RoxieStreams.</desc>
+  <programme start="20260827223000 +0000" stop="20260828013000 +0000" channel="ncaa-streams-1">
+    <title lang="en">Ohio Dominican vs Morehead State</title>
+    <desc lang="en">Live streaming of Ohio Dominican vs Morehead State on RoxieStreams.</desc>
   </programme>
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
@@ -307,6 +307,10 @@
   <programme start="20260825230000 +0000" stop="20260826020000 +0000" channel="ppv-streams-1">
     <title lang="en">Dana White's Contender Series</title>
     <desc lang="en">Live streaming of Dana White's Contender Series on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260826070000 +0000" stop="20260826100000 +0000" channel="ppv-streams-1">
+    <title lang="en">Tszyu vs. Mahoney</title>
+    <desc lang="en">Live streaming of Tszyu vs. Mahoney on RoxieStreams.</desc>
   </programme>
   <programme start="20260826000000 +0000" stop="20260826030000 +0000" channel="wwe-streams">
     <title lang="en">WWE NXT</title>
