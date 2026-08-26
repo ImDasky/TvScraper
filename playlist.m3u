@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="wwe-streams" tvg-name="Roxie Wwe-streams" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Fighting",Roxie Wwe-streams
+#EXTINF:-1 tvg-id="aew" tvg-name="Roxie Aew" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Fighting",Roxie Aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/wwe.m3u8
+https://tedesco.formaturamaxi.com.br/aew.m3u8
 #EXTINF:-1 tvg-id="mlb-streams-1" tvg-name="Roxie MLB 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="MLB",Roxie MLB 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -63,30 +63,6 @@ https://admin2.formaturamaxi.com.br/mlb8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/mlb9.m3u8
-#EXTINF:-1 tvg-id="arca" tvg-name="Roxie Arca" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Arca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/arca.m3u8
-#EXTINF:-1 tvg-id="f1" tvg-name="Roxie F1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="imsa" tvg-name="Roxie Imsa" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Imsa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/mlb10.m3u8
-#EXTINF:-1 tvg-id="indycar" tvg-name="Roxie Indycar" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Indycar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/indycar.m3u8
-#EXTINF:-1 tvg-id="mxgp" tvg-name="Roxie Mxgp" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie Mxgp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/mxgp.m3u8
-#EXTINF:-1 tvg-id="nascar" tvg-name="Roxie NASCAR" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="Motorsports",Roxie NASCAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/usa.m3u8
 #EXTINF:-1 tvg-id="nhl-streams-1" tvg-name="Roxie NHL 1" tvg-logo="https://roxiestreams.su/imgs/iconn.png" group-title="NHL",Roxie NHL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
