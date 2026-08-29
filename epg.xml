@@ -136,6 +136,10 @@
     <display-name lang="en">Roxie PPV 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-1">
+    <display-name lang="en">Roxie Soccer 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-10">
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -150,6 +154,10 @@
   </channel>
   <channel id="soccer-streams-13">
     <display-name lang="en">Roxie Soccer 13</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-14">
+    <display-name lang="en">Roxie Soccer 14</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-2">
@@ -192,6 +200,14 @@
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <programme start="20260828170000 +0000" stop="20260828200000 +0000" channel="soccer-streams-1">
+    <title lang="en">Racing Santander vs Elche</title>
+    <desc lang="en">Live streaming of Racing Santander vs Elche on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260829140000 +0000" stop="20260829170000 +0000" channel="soccer-streams-1">
+    <title lang="en">Gillingham vs Northampton</title>
+    <desc lang="en">Live streaming of Gillingham vs Northampton on RoxieStreams.</desc>
+  </programme>
   <programme start="20260828180000 +0000" stop="20260828210000 +0000" channel="soccer-streams-2">
     <title lang="en">Al Nassr vs Al Taawon</title>
     <desc lang="en">Live streaming of Al Nassr vs Al Taawon on RoxieStreams.</desc>
@@ -211,6 +227,10 @@
   <programme start="20260828190000 +0000" stop="20260828220000 +0000" channel="soccer-streams-6">
     <title lang="en">Crystal Palace vs Manchester City</title>
     <desc lang="en">Live streaming of Crystal Palace vs Manchester City on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260828190000 +0000" stop="20260828220000 +0000" channel="soccer-streams-14">
+    <title lang="en">Wrexham vs Birmingham</title>
+    <desc lang="en">Live streaming of Wrexham vs Birmingham on RoxieStreams.</desc>
   </programme>
   <programme start="20260828193000 +0000" stop="20260828223000 +0000" channel="soccer-streams-7">
     <title lang="en">Deportivo Alavés vs Villarreal</title>
