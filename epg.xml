@@ -192,9 +192,13 @@
     <title lang="en">Monaco vs Marseille</title>
     <desc lang="en">Live streaming of Monaco vs Marseille on RoxieStreams.</desc>
   </programme>
-  <programme start="20260830133000 +0000" stop="20260830163000 +0000" channel="soccer-streams-6">
+  <programme start="20260830133000 +0000" stop="20260830153000 +0000" channel="soccer-streams-6">
     <title lang="en">Freiburg vs Werder Bremen</title>
     <desc lang="en">Live streaming of Freiburg vs Werder Bremen on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260830153000 +0000" stop="20260830183000 +0000" channel="soccer-streams-6">
+    <title lang="en">Augsburg vs Schalke 04</title>
+    <desc lang="en">Live streaming of Augsburg vs Schalke 04 on RoxieStreams.</desc>
   </programme>
   <programme start="20260830140000 +0000" stop="20260830170000 +0000" channel="soccer-streams-7">
     <title lang="en">Athletico-PR vs Fluminense</title>
