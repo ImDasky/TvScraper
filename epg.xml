@@ -352,13 +352,13 @@
     <title lang="en">MotoGP - Aragon Grand Prix</title>
     <desc lang="en">Live streaming of MotoGP - Aragon Grand Prix on RoxieStreams.</desc>
   </programme>
-  <programme start="20260830130000 +0000" stop="20260830150500 +0000" channel="indycar">
-    <title lang="en">INDYCAR Series - Race 1</title>
-    <desc lang="en">Live streaming of INDYCAR Series - Race 1 on RoxieStreams.</desc>
-  </programme>
   <programme start="20260830150500 +0000" stop="20260830180500 +0000" channel="indycar">
     <title lang="en">INDYCAR NXT - Race</title>
     <desc lang="en">Live streaming of INDYCAR NXT - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260830220000 +0000" stop="20260831010000 +0000" channel="indycar">
+    <title lang="en">INDYCAR Series - Race 1</title>
+    <desc lang="en">Live streaming of INDYCAR Series - Race 1 on RoxieStreams.</desc>
   </programme>
   <programme start="20260830173000 +0000" stop="20260830203000 +0000" channel="indycar-2">
     <title lang="en">INDYCAR Series - Race 2</title>
