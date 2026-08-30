@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
+  <channel id="aew">
+    <display-name lang="en">Roxie Aew</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="floracing-1">
     <display-name lang="en">Roxie Floracing-1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -444,7 +448,7 @@
     <title lang="en">Lara vs. Ornelas</title>
     <desc lang="en">Live streaming of Lara vs. Ornelas on RoxieStreams.</desc>
   </programme>
-  <programme start="20260830170000 +0000" stop="20260830190000 +0000" channel="wwe-streams">
+  <programme start="20260830170000 +0000" stop="20260830200000 +0000" channel="aew">
     <title lang="en">AEW All-In</title>
     <desc lang="en">Live streaming of AEW All-In on RoxieStreams.</desc>
   </programme>
