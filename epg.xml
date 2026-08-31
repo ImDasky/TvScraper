@@ -60,12 +60,12 @@
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-2">
-    <display-name lang="en">Roxie Soccer 2</display-name>
+  <channel id="soccer-streams-10">
+    <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-3">
-    <display-name lang="en">Roxie Soccer 3</display-name>
+  <channel id="soccer-streams-2">
+    <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-4">
@@ -80,6 +80,18 @@
     <display-name lang="en">Roxie Soccer 6</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-7">
+    <display-name lang="en">Roxie Soccer 7</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-8">
+    <display-name lang="en">Roxie Soccer 8</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-9">
+    <display-name lang="en">Roxie Soccer 9</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -87,6 +99,10 @@
   <programme start="20260831163000 +0000" stop="20260831193000 +0000" channel="soccer-streams-1">
     <title lang="en">Leece vs Roma</title>
     <desc lang="en">Live streaming of Leece vs Roma on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260901184500 +0000" stop="20260901214500 +0000" channel="soccer-streams-1">
+    <title lang="en">Chesterfield vs Gillingham</title>
+    <desc lang="en">Live streaming of Chesterfield vs Gillingham on RoxieStreams.</desc>
   </programme>
   <programme start="20260831173000 +0000" stop="20260831193000 +0000" channel="soccer-streams-2">
     <title lang="en">Osasuna vs Getafe</title>
@@ -96,10 +112,6 @@
     <title lang="en">Barcelona vs Rayo Vallecano</title>
     <desc lang="en">Live streaming of Barcelona vs Rayo Vallecano on RoxieStreams.</desc>
   </programme>
-  <programme start="20260831184500 +0000" stop="20260831214500 +0000" channel="soccer-streams-3">
-    <title lang="en">Chesterfield vs Gillingham</title>
-    <desc lang="en">Live streaming of Chesterfield vs Gillingham on RoxieStreams.</desc>
-  </programme>
   <programme start="20260831184500 +0000" stop="20260831214500 +0000" channel="soccer-streams-4">
     <title lang="en">Atalanta vs Bologna</title>
     <desc lang="en">Live streaming of Atalanta vs Bologna on RoxieStreams.</desc>
@@ -108,9 +120,25 @@
     <title lang="en">Aston Villa vs Arsenal</title>
     <desc lang="en">Live streaming of Aston Villa vs Arsenal on RoxieStreams.</desc>
   </programme>
+  <programme start="20260831220000 +0000" stop="20260901010000 +0000" channel="soccer-streams-7">
+    <title lang="en">Defensa y Justicia vs Platense</title>
+    <desc lang="en">Live streaming of Defensa y Justicia vs Platense on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260831220000 +0000" stop="20260901010000 +0000" channel="soccer-streams-8">
+    <title lang="en">Estudiantes vs Newell's Old Boys</title>
+    <desc lang="en">Live streaming of Estudiantes vs Newell's Old Boys on RoxieStreams.</desc>
+  </programme>
   <programme start="20260831230000 +0000" stop="20260901020000 +0000" channel="soccer-streams-6">
     <title lang="en">Remo vs Coritiba</title>
     <desc lang="en">Live streaming of Remo vs Coritiba on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260901001500 +0000" stop="20260901031500 +0000" channel="soccer-streams-9">
+    <title lang="en">Instituto vs San Lorenzo</title>
+    <desc lang="en">Live streaming of Instituto vs San Lorenzo on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260901001500 +0000" stop="20260901031500 +0000" channel="soccer-streams-10">
+    <title lang="en">Tigre vs Barracas Central</title>
+    <desc lang="en">Live streaming of Tigre vs Barracas Central on RoxieStreams.</desc>
   </programme>
   <programme start="20260831220500 +0000" stop="20260901010500 +0000" channel="mlb-streams-1">
     <title lang="en">San Francisco Giants vs Atlanta Braves</title>
