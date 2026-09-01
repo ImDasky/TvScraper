@@ -88,6 +88,10 @@
     <display-name lang="en">Roxie Soccer 11</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-12">
+    <display-name lang="en">Roxie Soccer 12</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -151,6 +155,10 @@
   <programme start="20260901184500 +0000" stop="20260901214500 +0000" channel="soccer-streams-5">
     <title lang="en">HEBC vs Dortmund</title>
     <desc lang="en">Live streaming of HEBC vs Dortmund on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260901184500 +0000" stop="20260901214500 +0000" channel="soccer-streams-12">
+    <title lang="en">Fleetwood Town vs Oldham Athletic</title>
+    <desc lang="en">Live streaming of Fleetwood Town vs Oldham Athletic on RoxieStreams.</desc>
   </programme>
   <programme start="20260901190000 +0000" stop="20260901220000 +0000" channel="soccer-streams-6">
     <title lang="en">Stoke City vs Norwich</title>
