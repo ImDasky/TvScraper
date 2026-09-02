@@ -108,6 +108,10 @@
     <display-name lang="en">Roxie Soccer 16</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-17">
+    <display-name lang="en">Roxie Soccer 17</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -192,9 +196,13 @@
     <title lang="en">Boca Juniors vs Vélez Sarsfield</title>
     <desc lang="en">Live streaming of Boca Juniors vs Vélez Sarsfield on RoxieStreams.</desc>
   </programme>
-  <programme start="20260903000000 +0000" stop="20260903030000 +0000" channel="soccer-streams-12">
+  <programme start="20260903003000 +0000" stop="20260903033000 +0000" channel="soccer-streams-12">
     <title lang="en">Santos vs Palmeiras</title>
     <desc lang="en">Live streaming of Santos vs Palmeiras on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260903003000 +0000" stop="20260903033000 +0000" channel="soccer-streams-17">
+    <title lang="en">Vitória vs Vasco da Gama</title>
+    <desc lang="en">Live streaming of Vitória vs Vasco da Gama on RoxieStreams.</desc>
   </programme>
   <programme start="20260903010000 +0000" stop="20260903040000 +0000" channel="soccer-streams-13">
     <title lang="en">Toluca vs Leon</title>
