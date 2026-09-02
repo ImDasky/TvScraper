@@ -104,6 +104,10 @@
     <display-name lang="en">Roxie Soccer 15</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-16">
+    <display-name lang="en">Roxie Soccer 16</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -143,6 +147,10 @@
   <programme start="20260902160000 +0000" stop="20260902190000 +0000" channel="soccer-streams-2">
     <title lang="en">Udinese vs Venezia</title>
     <desc lang="en">Live streaming of Udinese vs Venezia on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260902170000 +0000" stop="20260902200000 +0000" channel="soccer-streams-16">
+    <title lang="en">Larissa vs Olympiakos Piraeus</title>
+    <desc lang="en">Live streaming of Larissa vs Olympiakos Piraeus on RoxieStreams.</desc>
   </programme>
   <programme start="20260902184500 +0000" stop="20260902214500 +0000" channel="soccer-streams-3">
     <title lang="en">Celtic vs Aberdeen</title>
