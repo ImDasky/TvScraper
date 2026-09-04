@@ -80,6 +80,14 @@
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ppv-streams-1">
+    <display-name lang="en">Roxie PPV 1</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-2">
+    <display-name lang="en">Roxie PPV 2</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-1">
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -114,6 +122,10 @@
   </channel>
   <channel id="soccer-streams-9">
     <display-name lang="en">Roxie Soccer 9</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ufc">
+    <display-name lang="en">Roxie UFC</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="wwe-streams">
@@ -227,6 +239,26 @@
   <programme start="20260905000000 +0000" stop="20260905030000 +0000" channel="wwe-streams">
     <title lang="en">WWE Smackdown</title>
     <desc lang="en">Live streaming of WWE Smackdown on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="ppv-streams-1">
+    <title lang="en">Ruiz Jr vs Knyba</title>
+    <desc lang="en">Live streaming of Ruiz Jr vs Knyba on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905190000 +0000" channel="ppv-streams-1">
+    <title lang="en">Taylor vs. Pili: Once Upon a Time</title>
+    <desc lang="en">Live streaming of Taylor vs. Pili: Once Upon a Time on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260908230000 +0000" stop="20260909020000 +0000" channel="ppv-streams-1">
+    <title lang="en">Dana White's Contender Series</title>
+    <desc lang="en">Live streaming of Dana White's Contender Series on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905190000 +0000" channel="ufc">
+    <title lang="en">UFC FN: Hooker vs. Parnasse</title>
+    <desc lang="en">Live streaming of UFC FN: Hooker vs. Parnasse on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905190000 +0000" channel="ppv-streams-2">
+    <title lang="en">RAF Moscow: Chimaev vs. Woodley</title>
+    <desc lang="en">Live streaming of RAF Moscow: Chimaev vs. Woodley on RoxieStreams.</desc>
   </programme>
   <programme start="20260904210000 +0000" stop="20260905000000 +0000" channel="indycar">
     <title lang="en">Indycar Series - Free Practice</title>
