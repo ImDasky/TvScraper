@@ -172,8 +172,16 @@
     <display-name lang="en">Roxie Soccer 28</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-29">
+    <display-name lang="en">Roxie Soccer 29</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-3">
     <display-name lang="en">Roxie Soccer 3</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="soccer-streams-31">
+    <display-name lang="en">Roxie Soccer 31</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-4">
@@ -288,6 +296,10 @@
     <title lang="en">Inter Milan vs Napoli</title>
     <desc lang="en">Live streaming of Inter Milan vs Napoli on RoxieStreams.</desc>
   </programme>
+  <programme start="20260905160000 +0000" stop="20260905190000 +0000" channel="soccer-streams-31">
+    <title lang="en">Volos NFC vs Olympiakos Piraeus</title>
+    <desc lang="en">Live streaming of Volos NFC vs Olympiakos Piraeus on RoxieStreams.</desc>
+  </programme>
   <programme start="20260905163000 +0000" stop="20260905193000 +0000" channel="soccer-streams-18">
     <title lang="en">Hull vs Aston Villa</title>
     <desc lang="en">Live streaming of Hull vs Aston Villa on RoxieStreams.</desc>
@@ -339,6 +351,10 @@
   <programme start="20260906023000 +0000" stop="20260906053000 +0000" channel="soccer-streams-28">
     <title lang="en">Vancouver Whitecaps vs St. Louis City</title>
     <desc lang="en">Live streaming of Vancouver Whitecaps vs St. Louis City on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260906030000 +0000" stop="20260906060000 +0000" channel="soccer-streams-29">
+    <title lang="en">Atlas vs Atlante</title>
+    <desc lang="en">Live streaming of Atlas vs Atlante on RoxieStreams.</desc>
   </programme>
   <programme start="20260905201000 +0000" stop="20260905231000 +0000" channel="mlb-streams-1">
     <title lang="en">San Francisco Giants vs New York Mets</title>
