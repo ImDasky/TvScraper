@@ -76,16 +76,16 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="nascar">
+    <display-name lang="en">Roxie NASCAR</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="nhl-streams-1">
     <display-name lang="en">Roxie NHL 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="ppv-streams-1">
     <display-name lang="en">Roxie PPV 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="ppv-streams-2">
-    <display-name lang="en">Roxie PPV 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="soccer-streams-1">
@@ -432,10 +432,6 @@
     <title lang="en">UFC FN: Hooker vs. Parnasse</title>
     <desc lang="en">Live streaming of UFC FN: Hooker vs. Parnasse on RoxieStreams.</desc>
   </programme>
-  <programme start="20260905160000 +0000" stop="20260905190000 +0000" channel="ppv-streams-2">
-    <title lang="en">RAF Moscow: Chimaev vs. Woodley</title>
-    <desc lang="en">Live streaming of RAF Moscow: Chimaev vs. Woodley on RoxieStreams.</desc>
-  </programme>
   <programme start="20260905103000 +0000" stop="20260905133000 +0000" channel="f1">
     <title lang="en">Formula 1 - Free Practice 3</title>
     <desc lang="en">Live streaming of Formula 1 - Free Practice 3 on RoxieStreams.</desc>
@@ -444,11 +440,11 @@
     <title lang="en">Formula 1 - Qualifying</title>
     <desc lang="en">Live streaming of Formula 1 - Qualifying on RoxieStreams.</desc>
   </programme>
-  <programme start="20260905223000 +0000" stop="20260905234000 +0000" channel="indycar">
-    <title lang="en">Indycar NXT - Race</title>
-    <desc lang="en">Live streaming of Indycar NXT - Race on RoxieStreams.</desc>
+  <programme start="20260905223000 +0000" stop="20260906013000 +0000" channel="indycar">
+    <title lang="en">Indy NXT - Race</title>
+    <desc lang="en">Live streaming of Indy NXT - Race on RoxieStreams.</desc>
   </programme>
-  <programme start="20260905234000 +0000" stop="20260906024000 +0000" channel="indycar">
+  <programme start="20260905234000 +0000" stop="20260906024000 +0000" channel="nascar">
     <title lang="en">NASCAR O'Reilly Auto Parts - Race</title>
     <desc lang="en">Live streaming of NASCAR O'Reilly Auto Parts - Race on RoxieStreams.</desc>
   </programme>
