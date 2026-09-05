@@ -344,13 +344,13 @@
     <title lang="en">Philadelphia Union vs CF Montreal</title>
     <desc lang="en">Live streaming of Philadelphia Union vs CF Montreal on RoxieStreams.</desc>
   </programme>
-  <programme start="20260906000000 +0000" stop="20260906023000 +0000" channel="soccer-streams-28">
-    <title lang="en">Fluminense vs Vasco Gama</title>
-    <desc lang="en">Live streaming of Fluminense vs Vasco Gama on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906023000 +0000" stop="20260906053000 +0000" channel="soccer-streams-28">
+  <programme start="20260906023000 +0000" stop="20260906053000 +0000" channel="soccer-streams-27">
     <title lang="en">Vancouver Whitecaps vs St. Louis City</title>
     <desc lang="en">Live streaming of Vancouver Whitecaps vs St. Louis City on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260906000000 +0000" stop="20260906030000 +0000" channel="soccer-streams-28">
+    <title lang="en">Fluminense vs Vasco Gama</title>
+    <desc lang="en">Live streaming of Fluminense vs Vasco Gama on RoxieStreams.</desc>
   </programme>
   <programme start="20260906030000 +0000" stop="20260906060000 +0000" channel="soccer-streams-29">
     <title lang="en">Atlas vs Atlante</title>
