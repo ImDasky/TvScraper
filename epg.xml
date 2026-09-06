@@ -160,6 +160,10 @@
     <display-name lang="en">Roxie Soccer 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="wwe-streams">
+    <display-name lang="en">Roxie Wwe-streams</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <programme start="20260906110000 +0000" stop="20260906140000 +0000" channel="soccer-streams-1">
     <title lang="en">Wolves vs Birmingham</title>
     <desc lang="en">Live streaming of Wolves vs Birmingham on RoxieStreams.</desc>
@@ -199,6 +203,10 @@
   <programme start="20260906140000 +0000" stop="20260906170000 +0000" channel="soccer-streams-17">
     <title lang="en">Coritiba vs Mirassol</title>
     <desc lang="en">Live streaming of Coritiba vs Mirassol on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260906230000 +0000" stop="20260907020000 +0000" channel="soccer-streams-17">
+    <title lang="en">Cruz Azul vs Santos Laguna</title>
+    <desc lang="en">Live streaming of Cruz Azul vs Santos Laguna on RoxieStreams.</desc>
   </programme>
   <programme start="20260906141500 +0000" stop="20260906163000 +0000" channel="soccer-streams-6">
     <title lang="en">Valencia vs Barcelona</title>
@@ -315,6 +323,10 @@
   <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
     <title lang="en">NHL Draft 2026</title>
     <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260907000000 +0000" stop="20260907030000 +0000" channel="wwe-streams">
+    <title lang="en">WWE Sunday's Main Event</title>
+    <desc lang="en">Live streaming of WWE Sunday's Main Event on RoxieStreams.</desc>
   </programme>
   <programme start="20260908230000 +0000" stop="20260909020000 +0000" channel="ppv-streams-1">
     <title lang="en">Dana White's Contender Series</title>
