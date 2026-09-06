@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Roxie IPTV EPG Generator">
-  <channel id="arca">
-    <display-name lang="en">Roxie Arca</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="f1">
     <display-name lang="en">Roxie F1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -16,10 +12,6 @@
     <display-name lang="en">Roxie Indycar</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="indycar-2">
-    <display-name lang="en">Roxie Indycar-2</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="mlb-streams-1">
     <display-name lang="en">Roxie MLB 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -28,24 +20,8 @@
     <display-name lang="en">Roxie MLB 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="mlb-streams-11">
-    <display-name lang="en">Roxie MLB 11</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="mlb-streams-12">
     <display-name lang="en">Roxie MLB 12</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-13">
-    <display-name lang="en">Roxie MLB 13</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-14">
-    <display-name lang="en">Roxie MLB 14</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-15">
-    <display-name lang="en">Roxie MLB 15</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="mlb-streams-2">
@@ -56,20 +32,12 @@
     <display-name lang="en">Roxie MLB 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="mlb-streams-4">
-    <display-name lang="en">Roxie MLB 4</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="mlb-streams-5">
     <display-name lang="en">Roxie MLB 5</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="mlb-streams-6">
     <display-name lang="en">Roxie MLB 6</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="mlb-streams-7">
-    <display-name lang="en">Roxie MLB 7</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="mlb-streams-8">
@@ -80,170 +48,10 @@
     <display-name lang="en">Roxie MLB 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="mxgp">
-    <display-name lang="en">Roxie Mxgp</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nascar">
-    <display-name lang="en">Roxie NASCAR</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="nhl-streams-1">
-    <display-name lang="en">Roxie NHL 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="ppv-streams-1">
     <display-name lang="en">Roxie PPV 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-1">
-    <display-name lang="en">Roxie Soccer 1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-10">
-    <display-name lang="en">Roxie Soccer 10</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-11">
-    <display-name lang="en">Roxie Soccer 11</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-12">
-    <display-name lang="en">Roxie Soccer 12</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-13">
-    <display-name lang="en">Roxie Soccer 13</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-14">
-    <display-name lang="en">Roxie Soccer 14</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-15">
-    <display-name lang="en">Roxie Soccer 15</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-16">
-    <display-name lang="en">Roxie Soccer 16</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-2">
-    <display-name lang="en">Roxie Soccer 2</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-3">
-    <display-name lang="en">Roxie Soccer 3</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-4">
-    <display-name lang="en">Roxie Soccer 4</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-6">
-    <display-name lang="en">Roxie Soccer 6</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-7">
-    <display-name lang="en">Roxie Soccer 7</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-8">
-    <display-name lang="en">Roxie Soccer 8</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <channel id="soccer-streams-9">
-    <display-name lang="en">Roxie Soccer 9</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
-  <programme start="20260906110000 +0000" stop="20260906140000 +0000" channel="soccer-streams-1">
-    <title lang="en">Wolves vs Birmingham</title>
-    <desc lang="en">Live streaming of Wolves vs Birmingham on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906160000 +0000" stop="20260906190000 +0000" channel="soccer-streams-1">
-    <title lang="en">Bologna vs Sassuolo</title>
-    <desc lang="en">Live streaming of Bologna vs Sassuolo on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906130000 +0000" stop="20260906153000 +0000" channel="soccer-streams-2">
-    <title lang="en">Everton vs Man United</title>
-    <desc lang="en">Live streaming of Everton vs Man United on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906153000 +0000" stop="20260906183000 +0000" channel="soccer-streams-2">
-    <title lang="en">Arsenal vs Chelsea</title>
-    <desc lang="en">Live streaming of Arsenal vs Chelsea on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906130000 +0000" stop="20260906151500 +0000" channel="soccer-streams-3">
-    <title lang="en">Troyes vs Strasbourg</title>
-    <desc lang="en">Live streaming of Troyes vs Strasbourg on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906151500 +0000" stop="20260906181500 +0000" channel="soccer-streams-3">
-    <title lang="en">Angers SCO vs Rennes</title>
-    <desc lang="en">Live streaming of Angers SCO vs Rennes on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906184500 +0000" stop="20260906214500 +0000" channel="soccer-streams-3">
-    <title lang="en">Marseille vs Paris</title>
-    <desc lang="en">Live streaming of Marseille vs Paris on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906133000 +0000" stop="20260906153000 +0000" channel="soccer-streams-4">
-    <title lang="en">Hamburger SV vs Mainz 05</title>
-    <desc lang="en">Live streaming of Hamburger SV vs Mainz 05 on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906153000 +0000" stop="20260906183000 +0000" channel="soccer-streams-4">
-    <title lang="en">Frankfurt vs Augsburg</title>
-    <desc lang="en">Live streaming of Frankfurt vs Augsburg on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906141500 +0000" stop="20260906163000 +0000" channel="soccer-streams-6">
-    <title lang="en">Valencia vs Barcelona</title>
-    <desc lang="en">Live streaming of Valencia vs Barcelona on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906163000 +0000" stop="20260906190000 +0000" channel="soccer-streams-6">
-    <title lang="en">Deportivo Alavés vs Osasuna</title>
-    <desc lang="en">Live streaming of Deportivo Alavés vs Osasuna on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906190000 +0000" stop="20260906220000 +0000" channel="soccer-streams-6">
-    <title lang="en">Espanyol vs Sevilla</title>
-    <desc lang="en">Live streaming of Espanyol vs Sevilla on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906184500 +0000" stop="20260906214500 +0000" channel="soccer-streams-7">
-    <title lang="en">Juventus vs Milan</title>
-    <desc lang="en">Live streaming of Juventus vs Milan on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906190000 +0000" stop="20260906220000 +0000" channel="soccer-streams-8">
-    <title lang="en">Cruzeiro vs Athletico-PR</title>
-    <desc lang="en">Live streaming of Cruzeiro vs Athletico-PR on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906190000 +0000" stop="20260906220000 +0000" channel="soccer-streams-9">
-    <title lang="en">Internacional vs Santos</title>
-    <desc lang="en">Live streaming of Internacional vs Santos on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906190000 +0000" stop="20260906220000 +0000" channel="soccer-streams-10">
-    <title lang="en">Remo vs Flamengo</title>
-    <desc lang="en">Live streaming of Remo vs Flamengo on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906200000 +0000" stop="20260906230000 +0000" channel="soccer-streams-11">
-    <title lang="en">Huachipato vs Colo-Colo</title>
-    <desc lang="en">Live streaming of Huachipato vs Colo-Colo on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906213000 +0000" stop="20260907003000 +0000" channel="soccer-streams-12">
-    <title lang="en">Botafogo vs Palmeiras</title>
-    <desc lang="en">Live streaming of Botafogo vs Palmeiras on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906220000 +0000" stop="20260907010000 +0000" channel="soccer-streams-13">
-    <title lang="en">León vs America</title>
-    <desc lang="en">Live streaming of León vs America on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906221500 +0000" stop="20260907011500 +0000" channel="soccer-streams-14">
-    <title lang="en">River Plate vs Independiente Rivadavia</title>
-    <desc lang="en">Live streaming of River Plate vs Independiente Rivadavia on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906223000 +0000" stop="20260907013000 +0000" channel="soccer-streams-15">
-    <title lang="en">Corinthians vs Chapecoense</title>
-    <desc lang="en">Live streaming of Corinthians vs Chapecoense on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260907011500 +0000" stop="20260907041500 +0000" channel="soccer-streams-16">
-    <title lang="en">Toluca vs Monterrey</title>
-    <desc lang="en">Live streaming of Toluca vs Monterrey on RoxieStreams.</desc>
-  </programme>
   <programme start="20260906161000 +0000" stop="20260906191000 +0000" channel="mlb-streams-1">
     <title lang="en">Milwaukee Brewers vs Cincinnati Reds</title>
     <desc lang="en">Live streaming of Milwaukee Brewers vs Cincinnati Reds on RoxieStreams.</desc>
@@ -256,10 +64,6 @@
     <title lang="en">Boston Red Sox vs Baltimore Orioles</title>
     <desc lang="en">Live streaming of Boston Red Sox vs Baltimore Orioles on RoxieStreams.</desc>
   </programme>
-  <programme start="20260906173500 +0000" stop="20260906203500 +0000" channel="mlb-streams-4">
-    <title lang="en">Los Angeles Angels vs Pittsburgh Pirates</title>
-    <desc lang="en">Live streaming of Los Angeles Angels vs Pittsburgh Pirates on RoxieStreams.</desc>
-  </programme>
   <programme start="20260906174000 +0000" stop="20260906204000 +0000" channel="mlb-streams-5">
     <title lang="en">Detroit Tigers vs Cleveland Guardians</title>
     <desc lang="en">Live streaming of Detroit Tigers vs Cleveland Guardians on RoxieStreams.</desc>
@@ -267,10 +71,6 @@
   <programme start="20260906174000 +0000" stop="20260906204000 +0000" channel="mlb-streams-6">
     <title lang="en">San Francisco Giants vs New York Mets</title>
     <desc lang="en">Live streaming of San Francisco Giants vs New York Mets on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906174000 +0000" stop="20260906204000 +0000" channel="mlb-streams-7">
-    <title lang="en">Chicago Cubs vs Miami Marlins</title>
-    <desc lang="en">Live streaming of Chicago Cubs vs Miami Marlins on RoxieStreams.</desc>
   </programme>
   <programme start="20260906181000 +0000" stop="20260906211000 +0000" channel="mlb-streams-8">
     <title lang="en">Arizona Diamondbacks vs Houston Astros</title>
@@ -284,41 +84,13 @@
     <title lang="en">Tampa Bay Rays vs Texas Rangers</title>
     <desc lang="en">Live streaming of Tampa Bay Rays vs Texas Rangers on RoxieStreams.</desc>
   </programme>
-  <programme start="20260906191000 +0000" stop="20260906221000 +0000" channel="mlb-streams-11">
-    <title lang="en">St. Louis Cardinals vs Colorado Rockies</title>
-    <desc lang="en">Live streaming of St. Louis Cardinals vs Colorado Rockies on RoxieStreams.</desc>
-  </programme>
   <programme start="20260906201000 +0000" stop="20260906231000 +0000" channel="mlb-streams-12">
     <title lang="en">Athletics vs Seattle Mariners</title>
     <desc lang="en">Live streaming of Athletics vs Seattle Mariners on RoxieStreams.</desc>
   </programme>
-  <programme start="20260906201000 +0000" stop="20260906231000 +0000" channel="mlb-streams-13">
-    <title lang="en">New York Yankees vs San Diego Padres</title>
-    <desc lang="en">Live streaming of New York Yankees vs San Diego Padres on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906222000 +0000" stop="20260907012000 +0000" channel="mlb-streams-14">
-    <title lang="en">Minnesota Twins vs Chicago White Sox</title>
-    <desc lang="en">Live streaming of Minnesota Twins vs Chicago White Sox on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260907021000 +0000" stop="20260907051000 +0000" channel="mlb-streams-15">
-    <title lang="en">Washington Nationals vs Los Angeles Dodgers</title>
-    <desc lang="en">Live streaming of Washington Nationals vs Los Angeles Dodgers on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260627180000 +0000" stop="20260627210000 +0000" channel="nhl-streams-1">
-    <title lang="en">NHL Draft 2026</title>
-    <desc lang="en">Live streaming of NHL Draft 2026 on RoxieStreams.</desc>
-  </programme>
   <programme start="20260908230000 +0000" stop="20260909020000 +0000" channel="ppv-streams-1">
     <title lang="en">Dana White's Contender Series</title>
     <desc lang="en">Live streaming of Dana White's Contender Series on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906101500 +0000" stop="20260906111500 +0000" channel="mxgp">
-    <title lang="en">MXGP (MX2) - Race</title>
-    <desc lang="en">Live streaming of MXGP (MX2) - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906111500 +0000" stop="20260906141500 +0000" channel="mxgp">
-    <title lang="en">MXGP - Race</title>
-    <desc lang="en">Live streaming of MXGP - Race on RoxieStreams.</desc>
   </programme>
   <programme start="20260906130000 +0000" stop="20260906160000 +0000" channel="f1">
     <title lang="en">Formula 1 - Italian Grand Prix</title>
@@ -328,20 +100,8 @@
     <title lang="en">Indy NXT - Race</title>
     <desc lang="en">Live streaming of Indy NXT - Race on RoxieStreams.</desc>
   </programme>
-  <programme start="20260906190500 +0000" stop="20260906220500 +0000" channel="indycar-2">
-    <title lang="en">Indycar Series Grand Prix</title>
-    <desc lang="en">Live streaming of Indycar Series Grand Prix on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260906210000 +0000" stop="20260907000000 +0000" channel="nascar">
-    <title lang="en">NASCAR Cup Series - Race</title>
-    <desc lang="en">Live streaming of NASCAR Cup Series - Race on RoxieStreams.</desc>
-  </programme>
   <programme start="20260906233000 +0000" stop="20260907023000 +0000" channel="floracing-1">
     <title lang="en">WoO Sprint Cars - Race</title>
     <desc lang="en">Live streaming of WoO Sprint Cars - Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260907003000 +0000" stop="20260907033000 +0000" channel="arca">
-    <title lang="en">ARCA Menards Series - Race</title>
-    <desc lang="en">Live streaming of ARCA Menards Series - Race on RoxieStreams.</desc>
   </programme>
 </tv>
