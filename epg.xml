@@ -100,10 +100,6 @@
     <display-name lang="en">Roxie Soccer 5</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-6">
-    <display-name lang="en">Roxie Soccer 6</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="wwe-streams">
     <display-name lang="en">Roxie Wwe-streams</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -116,9 +112,13 @@
     <title lang="en">Udinese vs Lazio</title>
     <desc lang="en">Live streaming of Udinese vs Lazio on RoxieStreams.</desc>
   </programme>
-  <programme start="20260907170000 +0000" stop="20260907200000 +0000" channel="soccer-streams-2">
+  <programme start="20260907170000 +0000" stop="20260907193000 +0000" channel="soccer-streams-2">
     <title lang="en">Getafe vs Celta Vigo</title>
     <desc lang="en">Live streaming of Getafe vs Celta Vigo on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260907193000 +0000" stop="20260907223000 +0000" channel="soccer-streams-2">
+    <title lang="en">Elche vs Real Sociedad</title>
+    <desc lang="en">Live streaming of Elche vs Real Sociedad on RoxieStreams.</desc>
   </programme>
   <programme start="20260907180000 +0000" stop="20260907210000 +0000" channel="soccer-streams-3">
     <title lang="en">Al Hilal vs NEOM</title>
@@ -128,11 +128,7 @@
     <title lang="en">Bromley vs Wimbledon</title>
     <desc lang="en">Live streaming of Bromley vs Wimbledon on RoxieStreams.</desc>
   </programme>
-  <programme start="20260907193000 +0000" stop="20260907223000 +0000" channel="soccer-streams-5">
-    <title lang="en">Elche vs Real Sociedad</title>
-    <desc lang="en">Live streaming of Elche vs Real Sociedad on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260907230000 +0000" stop="20260908020000 +0000" channel="soccer-streams-6">
+  <programme start="20260907230000 +0000" stop="20260908020000 +0000" channel="soccer-streams-5">
     <title lang="en">Vitória vs Grêmio</title>
     <desc lang="en">Live streaming of Vitória vs Grêmio on RoxieStreams.</desc>
   </programme>
