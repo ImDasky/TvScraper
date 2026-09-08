@@ -120,6 +120,10 @@
     <display-name lang="en">Roxie Soccer 14</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="soccer-streams-15">
+    <display-name lang="en">Roxie Soccer 15</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-2">
     <display-name lang="en">Roxie Soccer 2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -175,6 +179,10 @@
   <programme start="20260908184500 +0000" stop="20260908214500 +0000" channel="soccer-streams-5">
     <title lang="en">Crystal Palace vs Middlesbrough</title>
     <desc lang="en">Live streaming of Crystal Palace vs Middlesbrough on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260908184500 +0000" stop="20260908214500 +0000" channel="soccer-streams-15">
+    <title lang="en">Olympiakos Piraeus vs Volos NFC</title>
+    <desc lang="en">Live streaming of Olympiakos Piraeus vs Volos NFC on RoxieStreams.</desc>
   </programme>
   <programme start="20260908184500 +0000" stop="20260908214500 +0000" channel="soccer-streams-6">
     <title lang="en">Sunderland vs Hull</title>
