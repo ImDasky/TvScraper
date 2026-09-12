@@ -96,6 +96,14 @@
     <display-name lang="en">Roxie PPV 3</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
+  <channel id="ppv-streams-4">
+    <display-name lang="en">Roxie PPV 4</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="ppv-streams-5">
+    <display-name lang="en">Roxie PPV 5</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
   <channel id="soccer-streams-1">
     <display-name lang="en">Roxie Soccer 1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -320,7 +328,11 @@
     <title lang="en">Dana White's Contender Series</title>
     <desc lang="en">Live streaming of Dana White's Contender Series on RoxieStreams.</desc>
   </programme>
-  <programme start="20260912130000 +0000" stop="20260912160000 +0000" channel="ppv-streams-2">
+  <programme start="20260912120000 +0000" stop="20260912150000 +0000" channel="ppv-streams-2">
+    <title lang="en">East vs West XXVI</title>
+    <desc lang="en">Live streaming of East vs West XXVI on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260912130000 +0000" stop="20260912160000 +0000" channel="ppv-streams-3">
     <title lang="en">Gamebred FC x RCC HARD 21</title>
     <desc lang="en">Live streaming of Gamebred FC x RCC HARD 21 on RoxieStreams.</desc>
   </programme>
@@ -328,11 +340,11 @@
     <title lang="en">UFC Noche: Silva vs. Delgado</title>
     <desc lang="en">Live streaming of UFC Noche: Silva vs. Delgado on RoxieStreams.</desc>
   </programme>
-  <programme start="20260912180000 +0000" stop="20260912210000 +0000" channel="ppv-streams-3">
+  <programme start="20260912180000 +0000" stop="20260912210000 +0000" channel="ppv-streams-4">
     <title lang="en">Misfits: McCann vs. Big Stacks</title>
     <desc lang="en">Live streaming of Misfits: McCann vs. Big Stacks on RoxieStreams.</desc>
   </programme>
-  <programme start="20260912210000 +0000" stop="20260913000000 +0000" channel="ppv-streams-3">
+  <programme start="20260912210000 +0000" stop="20260913000000 +0000" channel="ppv-streams-5">
     <title lang="en">Ryan Garcia vs Conor Benn (ZUFFA)</title>
     <desc lang="en">Live streaming of Ryan Garcia vs Conor Benn (ZUFFA) on RoxieStreams.</desc>
   </programme>
