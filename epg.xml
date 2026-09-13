@@ -8,10 +8,6 @@
     <display-name lang="en">Roxie F1</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="floracing-1">
-    <display-name lang="en">Roxie Floracing-1</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="floracing-2">
     <display-name lang="en">Roxie Floracing-2</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -78,6 +74,14 @@
   </channel>
   <channel id="motogp">
     <display-name lang="en">Roxie MotoGP</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="mxgp">
+    <display-name lang="en">Roxie Mxgp</display-name>
+    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
+  </channel>
+  <channel id="nascar">
+    <display-name lang="en">Roxie NASCAR</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
   <channel id="nhl-streams-1">
@@ -220,10 +224,6 @@
     <display-name lang="en">Roxie Soccer 9</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="supercross">
-    <display-name lang="en">Roxie Supercross</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="ufc">
     <display-name lang="en">Roxie UFC</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -352,11 +352,11 @@
     <title lang="en">Palmeiras vs São Paulo</title>
     <desc lang="en">Live streaming of Palmeiras vs São Paulo on RoxieStreams.</desc>
   </programme>
-  <programme start="20260912230000 +0000" stop="20260913020000 +0000" channel="soccer-streams-25">
+  <programme start="20260912230000 +0000" stop="20260913011000 +0000" channel="soccer-streams-25">
     <title lang="en">Toluca vs Atlas</title>
     <desc lang="en">Live streaming of Toluca vs Atlas on RoxieStreams.</desc>
   </programme>
-  <programme start="20260913031000 +0000" stop="20260913031500 +0000" channel="soccer-streams-25">
+  <programme start="20260913011000 +0000" stop="20260913031500 +0000" channel="soccer-streams-25">
     <title lang="en">Monterrey vs Tigres</title>
     <desc lang="en">Live streaming of Monterrey vs Tigres on RoxieStreams.</desc>
   </programme>
@@ -472,30 +472,6 @@
     <title lang="en">Ryan Garcia vs Conor Benn (ZUFFA)</title>
     <desc lang="en">Live streaming of Ryan Garcia vs Conor Benn (ZUFFA) on RoxieStreams.</desc>
   </programme>
-  <programme start="20260912081000 +0000" stop="20260912111000 +0000" channel="motogp">
-    <title lang="en">MotoGP - Coverage</title>
-    <desc lang="en">Live streaming of MotoGP - Coverage on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260912103000 +0000" stop="20260912133000 +0000" channel="f1">
-    <title lang="en">Formula 1 - Free Practice 3</title>
-    <desc lang="en">Live streaming of Formula 1 - Free Practice 3 on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260912140000 +0000" stop="20260912170000 +0000" channel="f1">
-    <title lang="en">Formula 1 - Qualifying</title>
-    <desc lang="en">Live streaming of Formula 1 - Qualifying on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260912130000 +0000" stop="20260912160000 +0000" channel="supercross">
-    <title lang="en">SuperMotorcross - SMX Qualifying</title>
-    <desc lang="en">Live streaming of SuperMotorcross - SMX Qualifying on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260912190000 +0000" stop="20260912220000 +0000" channel="supercross">
-    <title lang="en">SuperMotorcross - SMX Race</title>
-    <desc lang="en">Live streaming of SuperMotorcross - SMX Race on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260912221500 +0000" stop="20260913011500 +0000" channel="floracing-1">
-    <title lang="en">Interstate High Limit Racing - Race</title>
-    <desc lang="en">Live streaming of Interstate High Limit Racing - Race on RoxieStreams.</desc>
-  </programme>
   <programme start="20260912223000 +0000" stop="20260913013000 +0000" channel="floracing-2">
     <title lang="en">World 100 - Race</title>
     <desc lang="en">Live streaming of World 100 - Race on RoxieStreams.</desc>
@@ -503,5 +479,25 @@
   <programme start="20260913000000 +0000" stop="20260913030000 +0000" channel="arca">
     <title lang="en">ARCA Menards Series - Race</title>
     <desc lang="en">Live streaming of ARCA Menards Series - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260913041500 +0000" stop="20260913051500 +0000" channel="mxgp">
+    <title lang="en">MXGP (MX2) - Race</title>
+    <desc lang="en">Live streaming of MXGP (MX2) - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260913051500 +0000" stop="20260913081500 +0000" channel="mxgp">
+    <title lang="en">MXGP (MXGP) - Race</title>
+    <desc lang="en">Live streaming of MXGP (MXGP) - Race on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260913074000 +0000" stop="20260913104000 +0000" channel="motogp">
+    <title lang="en">MotoGP - Coverage (Warmup)</title>
+    <desc lang="en">Live streaming of MotoGP - Coverage (Warmup) on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913160000 +0000" channel="f1">
+    <title lang="en">Formula 1 - Spanish Grand Prix</title>
+    <desc lang="en">Live streaming of Formula 1 - Spanish Grand Prix on RoxieStreams.</desc>
+  </programme>
+  <programme start="20260913190000 +0000" stop="20260913220000 +0000" channel="nascar">
+    <title lang="en">NASCAR - Cup Series - Race</title>
+    <desc lang="en">Live streaming of NASCAR - Cup Series - Race on RoxieStreams.</desc>
   </programme>
 </tv>
