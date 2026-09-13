@@ -164,10 +164,6 @@
     <display-name lang="en">Roxie Soccer 10</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
   </channel>
-  <channel id="soccer-streams-11">
-    <display-name lang="en">Roxie Soccer 11</display-name>
-    <icon src="https://roxiestreams.su/imgs/iconn.png"/>
-  </channel>
   <channel id="soccer-streams-12">
     <display-name lang="en">Roxie Soccer 12</display-name>
     <icon src="https://roxiestreams.su/imgs/iconn.png"/>
@@ -283,10 +279,6 @@
   <programme start="20260913170000 +0000" stop="20260913200000 +0000" channel="soccer-streams-10">
     <title lang="en">Benfica vs Gil Vicente</title>
     <desc lang="en">Live streaming of Benfica vs Gil Vicente on RoxieStreams.</desc>
-  </programme>
-  <programme start="20260913170000 +0000" stop="20260913200000 +0000" channel="soccer-streams-11">
-    <title lang="en">Galatasaray vs Kocaelispor</title>
-    <desc lang="en">Live streaming of Galatasaray vs Kocaelispor on RoxieStreams.</desc>
   </programme>
   <programme start="20260913190000 +0000" stop="20260913220000 +0000" channel="soccer-streams-12">
     <title lang="en">Vitória vs Mirassol</title>
